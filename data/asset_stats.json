@@ -1,43 +1,43 @@
 [
   {
     "symbol": "USDT",
-    "rawSupply": "9876496905141",
+    "rawSupply": "9876500450673",
     "decimals": 6,
     "price": 1,
-    "tvlUSD": 9876496.905141,
-    "updatedAt": "2025-06-18T13:44:17.469Z",
+    "tvlUSD": 9876500.450673,
+    "updatedAt": "2025-06-18T13:45:45.102Z",
     "rewardToken": "0x98cD652fD1f5324A1AF6D64b3F6c8DCF2d8cd0D3",
     "emissionPerSecond": "4000",
     "emissionEnd": "2025-06-30T12:00:00.000Z",
     "tvlSubsUSD": 683758.911252,
     "tvlSubsRaw": "683758911252",
-    "tvlSubsPct": 6.923091434333199
+    "tvlSubsPct": 6.923088949035663
   },
   {
     "symbol": "WBTC",
-    "rawSupply": "1757012141",
+    "rawSupply": "1757012287",
     "decimals": 8,
-    "price": 104111,
-    "tvlUSD": 1829242.9101165098,
-    "updatedAt": "2025-06-18T13:44:17.592Z",
+    "price": 104152,
+    "tvlUSD": 1829963.4371562398,
+    "updatedAt": "2025-06-18T13:45:45.239Z",
     "tvlSubsPct": null
   },
   {
     "symbol": "CORE",
-    "rawSupply": "64243540383450313298675554",
+    "rawSupply": "64243542076697191748554164",
     "decimals": 18,
-    "price": 0.530923,
-    "tvlUSD": 34108373.19100259,
-    "updatedAt": "2025-06-18T13:44:17.725Z",
+    "price": 0.531796,
+    "tvlUSD": 34164458.70221926,
+    "updatedAt": "2025-06-18T13:45:45.364Z",
     "tvlSubsPct": null
   },
   {
     "symbol": "BTCB",
-    "rawSupply": "30701410799384394251",
+    "rawSupply": "30701412586002474537",
     "decimals": 18,
-    "price": 104111,
-    "tvlUSD": 3196354.5797347086,
-    "updatedAt": "2025-06-18T13:44:17.852Z",
+    "price": 104152,
+    "tvlUSD": 3197613.5236573294,
+    "updatedAt": "2025-06-18T13:45:45.493Z",
     "tvlSubsPct": null
   }
 ]
