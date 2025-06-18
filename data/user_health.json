@@ -1,1 +1,3680 @@
-{}
+{
+  "0xd34b612fb05bb5cfd35be3640802daf6cfeec6ce": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "74955.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x349d6f3e15d70fce701ef6254fdb36442b67000f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "236926.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2b3cbdea25e4afc8d0c65039a439ae0317a8d366": {
+    "healthFactor": "1.1181",
+    "collateralUSD": "41.26",
+    "debtUSD": "29.47",
+    "status": "safe"
+  },
+  "0x47940f3aa17f1163f7a5ea70452ff624ac800630": {
+    "healthFactor": "5604437431.6667",
+    "collateralUSD": "224.18",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8771a5bb440599dc211496cfe2f1b9e81bb9ee4e": {
+    "healthFactor": "2.3294",
+    "collateralUSD": "116795.15",
+    "debtUSD": "38051.08",
+    "status": "safe"
+  },
+  "0x872ee19a34cdc144292892f4574ac47d3d116b42": {
+    "healthFactor": "160.6934",
+    "collateralUSD": "110790.43",
+    "debtUSD": "518.12",
+    "status": "safe"
+  },
+  "0xf18276468a798ff0eb83bed7bc63739574b765a2": {
+    "healthFactor": "193.0699",
+    "collateralUSD": "366.96",
+    "debtUSD": "1.43",
+    "status": "safe"
+  },
+  "0xab050479d8cdff122293f04cc6683bba17b92381": {
+    "healthFactor": "346.6611",
+    "collateralUSD": "2394639.35",
+    "debtUSD": "5180.79",
+    "status": "safe"
+  },
+  "0x1c707a73802d22f79c1d79b82455db43e84ff46d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "42373.74",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3c40012741354c4dc6b19f0f658befe4d9588341": {
+    "healthFactor": "3.9032",
+    "collateralUSD": "226.28",
+    "debtUSD": "43.81",
+    "status": "safe"
+  },
+  "0xc6c83fb062e3c90044722504a638611a1ece2fc4": {
+    "healthFactor": "209.5434",
+    "collateralUSD": "398.27",
+    "debtUSD": "1.43",
+    "status": "safe"
+  },
+  "0xc4ed09c1c8987bc4ea5c61fd90d380c989733cc0": {
+    "healthFactor": "191.6687",
+    "collateralUSD": "418.94",
+    "debtUSD": "1.64",
+    "status": "safe"
+  },
+  "0x160a414bbf1e13cc43ca56494133891c7b8ce53a": {
+    "healthFactor": "2.3063",
+    "collateralUSD": "36048.26",
+    "debtUSD": "12456.01",
+    "status": "safe"
+  },
+  "0xc80a5430d22e8f96b9fbf0d4d0925bc9e60daa1c": {
+    "healthFactor": "1573.1672",
+    "collateralUSD": "10997.06",
+    "debtUSD": "5.24",
+    "status": "safe"
+  },
+  "0x2c2fa8a0b0aa01169d1f7e2dc70829572c263d58": {
+    "healthFactor": "6.1189",
+    "collateralUSD": "531.57",
+    "debtUSD": "65.16",
+    "status": "safe"
+  },
+  "0xf55ed3d5517f03089a31395ee80bcc2996486e53": {
+    "healthFactor": "5.2301",
+    "collateralUSD": "429.07",
+    "debtUSD": "61.55",
+    "status": "safe"
+  },
+  "0x9e06e179f49c1fbab26767358dcb8e8665bd46dd": {
+    "healthFactor": "2.9594",
+    "collateralUSD": "3977.32",
+    "debtUSD": "1007.85",
+    "status": "safe"
+  },
+  "0x041100f967e77ce85636da38100a9898bba7705a": {
+    "healthFactor": "7.3441",
+    "collateralUSD": "106.23",
+    "debtUSD": "10.85",
+    "status": "safe"
+  },
+  "0x6f1919ba86af5ea6dd2509a5d78bd464605d8566": {
+    "healthFactor": "3.8941",
+    "collateralUSD": "5281.54",
+    "debtUSD": "1017.23",
+    "status": "safe"
+  },
+  "0x9236241ea9474b879a2201a6d9b34a8706ebcedd": {
+    "healthFactor": "1.1845",
+    "collateralUSD": "177.30",
+    "debtUSD": "112.27",
+    "status": "safe"
+  },
+  "0x262ff11a5fbba63cb57278ec12beba7625ee6157": {
+    "healthFactor": "2.4541",
+    "collateralUSD": "14929.41",
+    "debtUSD": "4562.51",
+    "status": "safe"
+  },
+  "0x5a3e71b6d8e0ce3d568d3c9b089b6a31a3f43501": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "0.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5b66a4530a51b68602804d65ff6a420693447db8": {
+    "healthFactor": "3.1473",
+    "collateralUSD": "417.28",
+    "debtUSD": "100.64",
+    "status": "safe"
+  },
+  "0xce3ddf9436bfcc3d9bdb1810b88f07ee84da5616": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "15298.48",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6fa5f575b4d507c9200fcfcb9752c4fbf35b86ca": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "91263.55",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0b4f1b818144fca1f56191f1d50dc4584503ad5f": {
+    "healthFactor": "2.3230",
+    "collateralUSD": "141725.94",
+    "debtUSD": "45848.19",
+    "status": "safe"
+  },
+  "0xaa3163db743b6000d70439a0d410d24a8f9d172d": {
+    "healthFactor": "2.7704",
+    "collateralUSD": "12.56",
+    "debtUSD": "3.48",
+    "status": "safe"
+  },
+  "0xc5e0bbfb5a0bae8c4af604e31f32729f63c20129": {
+    "healthFactor": "2.0213",
+    "collateralUSD": "9138.75",
+    "debtUSD": "3474.61",
+    "status": "safe"
+  },
+  "0x7f1b78798ab2ead2182fbf2d5fc8c5675fa8d4ca": {
+    "healthFactor": "2.2594",
+    "collateralUSD": "56434.85",
+    "debtUSD": "19279.95",
+    "status": "safe"
+  },
+  "0x007e4f6f17e7325111649160c600ca801c8fd4fa": {
+    "healthFactor": "1.7843",
+    "collateralUSD": "934522.26",
+    "debtUSD": "400612.71",
+    "status": "safe"
+  },
+  "0x58d0d8dd23ef3c71f486e59808cd577cfac55cb4": {
+    "healthFactor": "3.6816",
+    "collateralUSD": "2516.34",
+    "debtUSD": "544.74",
+    "status": "safe"
+  },
+  "0x3731696c9b5098beacf8dd03ac00c30bba979806": {
+    "healthFactor": "1.3146",
+    "collateralUSD": "42025.86",
+    "debtUSD": "24791.96",
+    "status": "safe"
+  },
+  "0x6433e4982993788cf6eaeb9812cf6c2ae8eb8707": {
+    "healthFactor": "1.9973",
+    "collateralUSD": "111.10",
+    "debtUSD": "41.72",
+    "status": "safe"
+  },
+  "0x32dabc0d0e037a1d6f0c1e9331bf7ad21eae748a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "26979.38",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xee9134bfed2bdd84b17c1443867d45532049579e": {
+    "healthFactor": "2.3534",
+    "collateralUSD": "93813.74",
+    "debtUSD": "29901.23",
+    "status": "safe"
+  },
+  "0x9ddc19759ff10b381e0e1fe2df88f5c07a69138a": {
+    "healthFactor": "1.5714",
+    "collateralUSD": "13042.86",
+    "debtUSD": "6225.29",
+    "status": "safe"
+  },
+  "0xe17bab8d0d17137bbd181ae7a4fadc4d0e7e8fdf": {
+    "healthFactor": "2.2369",
+    "collateralUSD": "8804.59",
+    "debtUSD": "3093.40",
+    "status": "safe"
+  },
+  "0xcbdc53d424d5a2e5fef1776997352f10212c9883": {
+    "healthFactor": "2.5004",
+    "collateralUSD": "167610.49",
+    "debtUSD": "53326.04",
+    "status": "safe"
+  },
+  "0xdbc538b846e88565df4085a5102c1554e85c5d12": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "32.69",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x000000000000000000000000000000000000dead": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "38.67",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd7b3370d129e6a058f1527d177b00b59e878020e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "22.72",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x63ffca3c84bbcd066aab9f99064b34585dd23654": {
+    "healthFactor": "1.5344",
+    "collateralUSD": "8642.75",
+    "debtUSD": "4224.44",
+    "status": "safe"
+  },
+  "0xf33d895a3b0811917314d0cb37ac715bf7bd90fe": {
+    "healthFactor": "1.1590",
+    "collateralUSD": "11.70",
+    "debtUSD": "7.57",
+    "status": "safe"
+  },
+  "0x4cde0457a886b46f188286fdfdd8000fee1877e0": {
+    "healthFactor": "1.4847",
+    "collateralUSD": "5757.93",
+    "debtUSD": "2908.66",
+    "status": "safe"
+  },
+  "0xe1b3b8ce9c7274df1022db90ec26686267f9ce13": {
+    "healthFactor": "1.1904",
+    "collateralUSD": "2695.81",
+    "debtUSD": "1698.40",
+    "status": "safe"
+  },
+  "0xb9efb3abfd12649faf03d360818d66e62592262c": {
+    "healthFactor": "1.8999",
+    "collateralUSD": "11856005.96",
+    "debtUSD": "4680214.13",
+    "status": "safe"
+  },
+  "0x26a849117071e59ed9676a9ebe2e0c2bc623f02b": {
+    "healthFactor": "3.2108",
+    "collateralUSD": "12.21",
+    "debtUSD": "2.85",
+    "status": "safe"
+  },
+  "0x43f8b563201b66ab99ee139c163038c113341cb0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "253.67",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2c2c00fa367d1a864cb8eced79e03b72556fff5b": {
+    "healthFactor": "1.8572",
+    "collateralUSD": "31.37",
+    "debtUSD": "12.67",
+    "status": "safe"
+  },
+  "0xe868833462313637531d7622eb3f1694ebef0616": {
+    "healthFactor": "7.3613",
+    "collateralUSD": "26.66",
+    "debtUSD": "2.72",
+    "status": "safe"
+  },
+  "0x1a4e3a3a36e01712e95a0e80b6cc8831622119b2": {
+    "healthFactor": "1.8660",
+    "collateralUSD": "775.50",
+    "debtUSD": "307.79",
+    "status": "safe"
+  },
+  "0x8b495070064e737b7a81d17b22c650dd1060b436": {
+    "healthFactor": "8.8675",
+    "collateralUSD": "276.73",
+    "debtUSD": "21.77",
+    "status": "safe"
+  },
+  "0x8b5bc46ac6c29e48fa2900b51b55a19dca3c17ed": {
+    "healthFactor": "5072313.7221",
+    "collateralUSD": "24478.58",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xadc57a5e64960b1f431224f0bfc1ece648c2c982": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "11.33",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf53c5d85116745678a61af28e5d53c2a58564cc6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "53.95",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc55e8d59884868e268bd37edd85194fcc8e0ebf3": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1162.25",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb5d26490040fcaa45e13d0ab41d0dba6e99c01f8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "19.20",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8a8bc5017258e53172216bffd84a9bc6d42d6fde": {
+    "healthFactor": "1.0050",
+    "collateralUSD": "81.56",
+    "debtUSD": "60.87",
+    "status": "safe"
+  },
+  "0x49480a588912e96603df7046401af99606d7f572": {
+    "healthFactor": "9.7961",
+    "collateralUSD": "429.15",
+    "debtUSD": "31.08",
+    "status": "safe"
+  },
+  "0x138e5ff8dea4f6bed358e3357b62eff938d6069f": {
+    "healthFactor": "1.1482",
+    "collateralUSD": "21.11",
+    "debtUSD": "14.70",
+    "status": "safe"
+  },
+  "0x43472660347a2a1b9b21bf888479958240d40743": {
+    "healthFactor": "1.1303",
+    "collateralUSD": "28.05",
+    "debtUSD": "18.61",
+    "status": "safe"
+  },
+  "0xba6dec8522d19b4d54c530d45f327de474933077": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "296.66",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x91de280b38851e5a103ed258fbedc80eb76438ba": {
+    "healthFactor": "1.5706",
+    "collateralUSD": "553.56",
+    "debtUSD": "274.20",
+    "status": "safe"
+  },
+  "0xc0cfb243ae36baa1041a7e794d0d491b20846b61": {
+    "healthFactor": "2.7217",
+    "collateralUSD": "197.12",
+    "debtUSD": "54.32",
+    "status": "safe"
+  },
+  "0x740d71cb1771a436e1903b636cf364f6cb9f3b3f": {
+    "healthFactor": "44.7019",
+    "collateralUSD": "1100.50",
+    "debtUSD": "17.14",
+    "status": "safe"
+  },
+  "0xc3de8d2a9b2df33ff344350544a9343199849e3e": {
+    "healthFactor": "9.7990",
+    "collateralUSD": "85.51",
+    "debtUSD": "6.55",
+    "status": "safe"
+  },
+  "0x97b9116e646ad1350b37e7109a470a7582248c0f": {
+    "healthFactor": "1.2792",
+    "collateralUSD": "118618.89",
+    "debtUSD": "69547.91",
+    "status": "safe"
+  },
+  "0x14e6b58439ecd0233dedd362243ea21cffee39f4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "23.46",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7875d6502b214a59f5650cbfc8091ff5d837336b": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "104.19",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa3a672cc16c271ff5e54adeac88f3c8d6f90452c": {
+    "healthFactor": "1.4728",
+    "collateralUSD": "58.66",
+    "debtUSD": "29.87",
+    "status": "safe"
+  },
+  "0x9dca71c8d3cf51648241ab45efe700cc55dbe1aa": {
+    "healthFactor": "1.8915",
+    "collateralUSD": "185.16",
+    "debtUSD": "73.42",
+    "status": "safe"
+  },
+  "0xfe1d5df3e588fd8f88663cfb3f15d7f7ba5d388a": {
+    "healthFactor": "20.1119",
+    "collateralUSD": "273.91",
+    "debtUSD": "10.23",
+    "status": "safe"
+  },
+  "0x518661b3d94664440bc4cbcbef94ca3a9733d315": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "77.55",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xdc0902c3f2d69ca2e2287c178de1ed069f3b161d": {
+    "healthFactor": "2.0976",
+    "collateralUSD": "192.43",
+    "debtUSD": "71.69",
+    "status": "safe"
+  },
+  "0xe6ffcb10e776f4008ea6a89541d5000193b35ca8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "474.06",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb6420a1fe5267e11f238ddbb48509a144bab45a0": {
+    "healthFactor": "1.5531",
+    "collateralUSD": "105.08",
+    "debtUSD": "49.15",
+    "status": "safe"
+  },
+  "0xbebc8191b488d67b984b8f0a1a1a464ca342da82": {
+    "healthFactor": "3.6682",
+    "collateralUSD": "492.88",
+    "debtUSD": "100.77",
+    "status": "safe"
+  },
+  "0x1ef55e79544112a4b5fb0d0d03ef171e656abae0": {
+    "healthFactor": "205907.5702",
+    "collateralUSD": "373.06",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa448ee3fddd544b8a439da0627942ddf95b981b2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "40.37",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb606cab5895487a6ae0a06c0e38db251155af7ef": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10.66",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xcb7c0e191d02f6f44d51023b628858a00379dd98": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "53.30",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7bd9eb83291e98824303ed5b666d1a113800f82a": {
+    "healthFactor": "1.5911",
+    "collateralUSD": "26.92",
+    "debtUSD": "12.69",
+    "status": "safe"
+  },
+  "0xb1d5c3b8b679fb36798a0350bb7c3c91b3c52dfd": {
+    "healthFactor": "1.6146",
+    "collateralUSD": "13.87",
+    "debtUSD": "6.44",
+    "status": "safe"
+  },
+  "0x266e6be6a68658807f8b226b236e71a83d1c127a": {
+    "healthFactor": "1.1840",
+    "collateralUSD": "42.88",
+    "debtUSD": "23.11",
+    "status": "safe"
+  },
+  "0x57ffb07825f23829c9c7a5be1e294fd199151eff": {
+    "healthFactor": "1.6927",
+    "collateralUSD": "410.67",
+    "debtUSD": "157.65",
+    "status": "safe"
+  },
+  "0xaa84d708fca02e18bf652429d7fc0cdc5bbcbcae": {
+    "healthFactor": "1.1814",
+    "collateralUSD": "781.80",
+    "debtUSD": "496.31",
+    "status": "safe"
+  },
+  "0x09dc1e7b7339d5212094c78e3424f9ada107e177": {
+    "healthFactor": "1.0543",
+    "collateralUSD": "73.57",
+    "debtUSD": "52.34",
+    "status": "safe"
+  },
+  "0x3ea1dfe35ea2ae89231b138b0af79d21ac197b8b": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "116.63",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7b66971af65d85fb394f41428fc3dae00f43f3bc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10790.93",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x10316ae7765cfd5d2fb7e2491ea0f96f77c2e081": {
+    "healthFactor": "1.0297",
+    "collateralUSD": "765.49",
+    "debtUSD": "536.32",
+    "status": "safe"
+  },
+  "0x0bdea47d570363f06c6dbd82a82c26a708c2742b": {
+    "healthFactor": "1.5289",
+    "collateralUSD": "388.35",
+    "debtUSD": "190.50",
+    "status": "safe"
+  },
+  "0x8f3e7ba3f4d415bb5d818d8fa5c0aa8d43eaf74a": {
+    "healthFactor": "4.3840",
+    "collateralUSD": "89676.34",
+    "debtUSD": "15863.01",
+    "status": "safe"
+  },
+  "0x79c605526178e3bb8dcde571f77389390cc1ea8e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "798.51",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0c8aa570a1dfeee5258f3c13e2e967da24bbb505": {
+    "healthFactor": "2.0294",
+    "collateralUSD": "58.09",
+    "debtUSD": "21.47",
+    "status": "safe"
+  },
+  "0xd33d543155b055606fff8c3059a09464774cb18a": {
+    "healthFactor": "3.0408",
+    "collateralUSD": "487.06",
+    "debtUSD": "117.70",
+    "status": "safe"
+  },
+  "0x5eeaf02e1317fd511ef27355e882509aca320c4c": {
+    "healthFactor": "1.3801",
+    "collateralUSD": "2657.73",
+    "debtUSD": "1437.18",
+    "status": "safe"
+  },
+  "0x4bd75ae9e412d62692f9ce0ba96553ce0bef0c73": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "701.37",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf7e373d376386003e3376f51c036a2cdc27813cc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "37.32",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbacabac81f353ad6a670a57242112e5c4d45a709": {
+    "healthFactor": "1.4963",
+    "collateralUSD": "2035.95",
+    "debtUSD": "1020.52",
+    "status": "safe"
+  },
+  "0x660edc17ffadc97c6cb02d7a8ea95559e6b83609": {
+    "healthFactor": "3416.1019",
+    "collateralUSD": "635.58",
+    "debtUSD": "0.14",
+    "status": "safe"
+  },
+  "0x22e9504556c716a4277acc573d4cc984e2c73485": {
+    "healthFactor": "1.5858",
+    "collateralUSD": "31.83",
+    "debtUSD": "15.05",
+    "status": "safe"
+  },
+  "0x64cfe1a4c743a853deb2b04f8179811bd52c1424": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "106.62",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3660c0d7fa6d6812b474c15c1be16a8fd77d30fa": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "212.97",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5dd016ddc936267b13bba0ebc34b3332ac5d2a88": {
+    "healthFactor": "1.1064",
+    "collateralUSD": "2673.13",
+    "debtUSD": "1812.02",
+    "status": "safe"
+  },
+  "0xbb101ce89743fba2b55a9279a9ab6d3a47495eff": {
+    "healthFactor": "8.0567",
+    "collateralUSD": "23940.03",
+    "debtUSD": "2228.58",
+    "status": "safe"
+  },
+  "0x8521ce5233d4e87260ed1f94d5d2f7c04cf27e88": {
+    "healthFactor": "2.2163",
+    "collateralUSD": "79.96",
+    "debtUSD": "27.06",
+    "status": "safe"
+  },
+  "0xc072a267b9744e8efba7be9469c920a9099f2da3": {
+    "healthFactor": "28.9542",
+    "collateralUSD": "203.65",
+    "debtUSD": "5.04",
+    "status": "safe"
+  },
+  "0xb4e98261c8ab48e46d62519d3c8aa7aa939e4dda": {
+    "healthFactor": "49804.5331",
+    "collateralUSD": "69.08",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe9118bef8ced36bd45b5f534a8a601ce303ab253": {
+    "healthFactor": "1.4757",
+    "collateralUSD": "55.04",
+    "debtUSD": "22.58",
+    "status": "safe"
+  },
+  "0x18d14207dc2d5b68fcde740429e5e8d770218dd4": {
+    "healthFactor": "2.1074",
+    "collateralUSD": "170.91",
+    "debtUSD": "62.16",
+    "status": "safe"
+  },
+  "0xd7d0a26b91ea530f788bbb8861678b90aa6fd3e9": {
+    "healthFactor": "2.5406",
+    "collateralUSD": "450.28",
+    "debtUSD": "123.55",
+    "status": "safe"
+  },
+  "0xaeabf186e69a001390dc7588ec4d752010a8555c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "13.33",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa688bfbdc4b7b9823a1491de179fe6ec007006f3": {
+    "healthFactor": "16.0208",
+    "collateralUSD": "21.05",
+    "debtUSD": "1.05",
+    "status": "safe"
+  },
+  "0xc0a12b169ad39cd94ba8a1f2068809a4636e383f": {
+    "healthFactor": "1.6623",
+    "collateralUSD": "153.74",
+    "debtUSD": "69.37",
+    "status": "safe"
+  },
+  "0xd57fcb9e9030b78511f14da4691511dd07e2874d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "31.97",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x330be2cb45c2b89b9cd61d5d5f5c1b06f958f174": {
+    "healthFactor": "1.1381",
+    "collateralUSD": "178.78",
+    "debtUSD": "117.82",
+    "status": "safe"
+  },
+  "0x7c71262208e1990c1c7a0c776709f14138ec215c": {
+    "healthFactor": "3.1357",
+    "collateralUSD": "59.96",
+    "debtUSD": "14.34",
+    "status": "safe"
+  },
+  "0x59bac76400ec71a941c02cc432699a37db7dad45": {
+    "healthFactor": "3.4684",
+    "collateralUSD": "469.91",
+    "debtUSD": "101.63",
+    "status": "safe"
+  },
+  "0x57c82884872b895bbabb1517a7471e60c38800df": {
+    "healthFactor": "1.0469",
+    "collateralUSD": "276.28",
+    "debtUSD": "197.93",
+    "status": "safe"
+  },
+  "0xf5085d0114b0710cdcb277a58df82210a533236d": {
+    "healthFactor": "7.1770",
+    "collateralUSD": "125.51",
+    "debtUSD": "11.58",
+    "status": "safe"
+  },
+  "0xc516e88998463da4c19014aa07a03b6cbc1aef65": {
+    "healthFactor": "1.4760",
+    "collateralUSD": "50.91",
+    "debtUSD": "22.89",
+    "status": "safe"
+  },
+  "0xbfdd31e8b2bc42b95fafc4a8b00fa83fa25dd6bd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1054.60",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1b05b2d0f3568b47a5c698d1d693e09f1cc53040": {
+    "healthFactor": "5.5634",
+    "collateralUSD": "324.84",
+    "debtUSD": "40.18",
+    "status": "safe"
+  },
+  "0x6a13750018f6d13b42d3b3f7d5afd46c08f9a323": {
+    "healthFactor": "1.2173",
+    "collateralUSD": "19.29",
+    "debtUSD": "11.89",
+    "status": "safe"
+  },
+  "0x1b33fcc02ccf5b55a04e7c9b92e3ed556290175a": {
+    "healthFactor": "3.6095",
+    "collateralUSD": "64.97",
+    "debtUSD": "13.50",
+    "status": "safe"
+  },
+  "0x5ddc53177ad9ec7667264a5b276fe1971ee6dba2": {
+    "healthFactor": "1.8302",
+    "collateralUSD": "5014781.39",
+    "debtUSD": "2055055.70",
+    "status": "safe"
+  },
+  "0xef52ebeb458dc5375b59b64684adacdbaed8a6a8": {
+    "healthFactor": "1.8550",
+    "collateralUSD": "3421237.45",
+    "debtUSD": "1383223.58",
+    "status": "safe"
+  },
+  "0xcf38f94654fc054b4f87685335ca14c108549d42": {
+    "healthFactor": "1.6390",
+    "collateralUSD": "2895.77",
+    "debtUSD": "1403.93",
+    "status": "safe"
+  },
+  "0x38764edeaca1b359597104361814a87402d60511": {
+    "healthFactor": "1.0458",
+    "collateralUSD": "101.77",
+    "debtUSD": "73.74",
+    "status": "safe"
+  },
+  "0x95f009f83e87797935f649dfc3adbbf7cb32160f": {
+    "healthFactor": "1.9513",
+    "collateralUSD": "4262773.87",
+    "debtUSD": "1638464.42",
+    "status": "safe"
+  },
+  "0xa8ec7b7b51dbaed615cb4ff495eecfd949e1afc0": {
+    "healthFactor": "1.8983",
+    "collateralUSD": "3618609.88",
+    "debtUSD": "1429651.03",
+    "status": "safe"
+  },
+  "0x4b37f75540963fb256578b46d9e513b31824192c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "980.60",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x9dec3957d84517ff4be9e6e1f0d1a002462c3fd4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "0.15",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe7f806b0e853e7a56866193201404b8ef253e079": {
+    "healthFactor": "1.3215",
+    "collateralUSD": "1399.79",
+    "debtUSD": "793.18",
+    "status": "safe"
+  },
+  "0x9bbfe1f6ce22dd44dbe68b1498ed1971ac1a97b8": {
+    "healthFactor": "1.2590",
+    "collateralUSD": "2188.98",
+    "debtUSD": "1304.00",
+    "status": "safe"
+  },
+  "0x3393aa47f3e870991e8bdafc45daed35e9361f73": {
+    "healthFactor": "1.9567",
+    "collateralUSD": "2328890.86",
+    "debtUSD": "892680.02",
+    "status": "safe"
+  },
+  "0x9b3fd460fcc1978c199a3a1d4d3fd7f8c0d7e869": {
+    "healthFactor": "2.2230",
+    "collateralUSD": "479.55",
+    "debtUSD": "161.79",
+    "status": "safe"
+  },
+  "0x015df52ba471d08a4d081ebb989ad05939996e30": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "21313.55",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x54a8c6f491262e3fc85ba146f0bf09b1bb6332e5": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "53.28",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3d682b72abe6e28ae16b88dda834fffe3796977f": {
+    "healthFactor": "2.1278",
+    "collateralUSD": "8707.66",
+    "debtUSD": "3041.84",
+    "status": "safe"
+  },
+  "0xf23f18c1c8802dfc203d8670273ddfb05f236c07": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "164.87",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf80f35087cc00d90a8bc64807665c253e3cb0c94": {
+    "healthFactor": "1.8752",
+    "collateralUSD": "957.74",
+    "debtUSD": "383.05",
+    "status": "safe"
+  },
+  "0x0dcbbe0e2a0574e84be35e4c8402b5e1eb36b8ba": {
+    "healthFactor": "2.3150",
+    "collateralUSD": "138.59",
+    "debtUSD": "38.16",
+    "status": "safe"
+  },
+  "0x3466454bbf7800e022886327422cc2e119923f4f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "253.46",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1a23a6b614053b42775222da9ef0795078bbfa69": {
+    "healthFactor": "1.7373",
+    "collateralUSD": "379.37",
+    "debtUSD": "161.44",
+    "status": "safe"
+  },
+  "0x3602c9d68b159f6240a886f5ba950d1f4705ce18": {
+    "healthFactor": "4.1130",
+    "collateralUSD": "2532.25",
+    "debtUSD": "466.92",
+    "status": "safe"
+  },
+  "0xb26ddc7516ea7f2f6cf3252b8f7af0a9a63d49a5": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "15.45",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb6ce834b8e2546262da844c4a7f99463f6e31ccf": {
+    "healthFactor": "1.1056",
+    "collateralUSD": "1364.57",
+    "debtUSD": "925.65",
+    "status": "safe"
+  },
+  "0x67c00bafe525ee71656113514fd715b97e27c72b": {
+    "healthFactor": "2.7812",
+    "collateralUSD": "946281.62",
+    "debtUSD": "255184.01",
+    "status": "safe"
+  },
+  "0x33be9a2d92dfaa4168ca0326b5e85809458095eb": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "165.01",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5cfe2f3dce3880a79cf46d701346b848c68c8fa2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "141.15",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x91ec553f0e12c5c0875506c3c1d8b20523b16fdd": {
+    "healthFactor": "3.0658",
+    "collateralUSD": "3786.82",
+    "debtUSD": "975.67",
+    "status": "safe"
+  },
+  "0xb1845856c562f54bdfb18b6ed3e3e813a67878f0": {
+    "healthFactor": "1.1004",
+    "collateralUSD": "961.01",
+    "debtUSD": "655.01",
+    "status": "safe"
+  },
+  "0x0308d3a8129cc08799d1ea153d7e2de612de6203": {
+    "healthFactor": "3.1025",
+    "collateralUSD": "76.44",
+    "debtUSD": "16.13",
+    "status": "safe"
+  },
+  "0x4010c1daee30813ff3d7147f420b14ac71858fa6": {
+    "healthFactor": "1.6446",
+    "collateralUSD": "303.52",
+    "debtUSD": "138.42",
+    "status": "safe"
+  },
+  "0x9266af158afd2f9732296bb66d0e554412c5bcf2": {
+    "healthFactor": "4.1583",
+    "collateralUSD": "25441.00",
+    "debtUSD": "4679.72",
+    "status": "safe"
+  },
+  "0x33ea772371f2563afca4bb5faf1595b747b87abd": {
+    "healthFactor": "1.1489",
+    "collateralUSD": "102.29",
+    "debtUSD": "66.77",
+    "status": "safe"
+  },
+  "0x623bc8b86eb3cf9c340c2781bc6f1ff0b1ab3415": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "46.90",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xdef9ee0cd9a738c2d57591bcf421ca0e86e49743": {
+    "healthFactor": "1.2209",
+    "collateralUSD": "1487.07",
+    "debtUSD": "957.37",
+    "status": "safe"
+  },
+  "0x0e38b961a54a8a9b80f15b99a4804f7774ef778e": {
+    "healthFactor": "2.9452",
+    "collateralUSD": "103.32",
+    "debtUSD": "26.22",
+    "status": "safe"
+  },
+  "0x9e7d718151768cf89da65fab7e60cef7cf7f06d7": {
+    "healthFactor": "2.4020",
+    "collateralUSD": "2364.61",
+    "debtUSD": "729.27",
+    "status": "safe"
+  },
+  "0x4282341588f94c158bfaa40ae2c9f3abfdac647f": {
+    "healthFactor": "1.6239",
+    "collateralUSD": "18632.76",
+    "debtUSD": "8977.42",
+    "status": "safe"
+  },
+  "0x9c47f29f82dbdf67b29c6c4661eccfde6811be5c": {
+    "healthFactor": "1.8711",
+    "collateralUSD": "48.15",
+    "debtUSD": "19.30",
+    "status": "safe"
+  },
+  "0x447a2c9d8575970d3a533dbb609a09f1f837c82f": {
+    "healthFactor": "5.2682",
+    "collateralUSD": "38.28",
+    "debtUSD": "5.45",
+    "status": "safe"
+  },
+  "0xe84a290bf2af16be81ee79c855bdea10f07c3a6d": {
+    "healthFactor": "8.5669",
+    "collateralUSD": "4030.43",
+    "debtUSD": "270.99",
+    "status": "safe"
+  },
+  "0xb39e7d35f65da12c72331bcffe13d486745e9de8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "13.32",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd839abd1c89924ab9eca778121963290cade7e6e": {
+    "healthFactor": "1.1569",
+    "collateralUSD": "204.58",
+    "debtUSD": "132.63",
+    "status": "safe"
+  },
+  "0x998c6f385ea414ed56b17ac502abe375cd50d7f6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "260.52",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa8435c600d7588333b1e26a7ba9890620d0e27f7": {
+    "healthFactor": "1.0920",
+    "collateralUSD": "1197.53",
+    "debtUSD": "822.47",
+    "status": "safe"
+  },
+  "0xaea9c9408a17542578c5d9a6d6ff6655032a75f1": {
+    "healthFactor": "2.1121",
+    "collateralUSD": "81.42",
+    "debtUSD": "22.67",
+    "status": "safe"
+  },
+  "0x1128df324c6daeb3739149f74588a43943ccdaae": {
+    "healthFactor": "1.0721",
+    "collateralUSD": "2562.80",
+    "debtUSD": "1802.83",
+    "status": "safe"
+  },
+  "0x350d3973b73c967d84e76d087885f248d8bc6f80": {
+    "healthFactor": "2.3715",
+    "collateralUSD": "2599093.42",
+    "debtUSD": "821966.43",
+    "status": "safe"
+  },
+  "0x1b5e5dc95d27929cc9a83d26b60ecb305ad121be": {
+    "healthFactor": "1.2071",
+    "collateralUSD": "1217.26",
+    "debtUSD": "756.31",
+    "status": "safe"
+  },
+  "0xd714e6a6a57395b65c08297a0a476e17f40a3599": {
+    "healthFactor": "8.2516",
+    "collateralUSD": "1158.74",
+    "debtUSD": "103.83",
+    "status": "safe"
+  },
+  "0xfacfec6474d13e661027b470ec68550e47136ad8": {
+    "healthFactor": "14.3406",
+    "collateralUSD": "47981.55",
+    "debtUSD": "2666.98",
+    "status": "safe"
+  },
+  "0xf5418af659f65933a9460573231d82adde3b6403": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "0.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd51a5a2363c89d4b7c58b56107c959dfa1715a92": {
+    "healthFactor": "1.7992",
+    "collateralUSD": "8762.56",
+    "debtUSD": "3849.40",
+    "status": "safe"
+  },
+  "0xc250e25e9c39c97f9399d00302ad1d923594c15e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "28.45",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfafabdad834a783969fc8418dc8c38061c21c5f1": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "105.91",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6d28ad7879495136596195bdc310eec21de0fb36": {
+    "healthFactor": "3.8034",
+    "collateralUSD": "53.26",
+    "debtUSD": "10.50",
+    "status": "safe"
+  },
+  "0x4c2a11f6668d2140880d456db89c15a2308c5bb3": {
+    "healthFactor": "3.0879",
+    "collateralUSD": "47.22",
+    "debtUSD": "10.76",
+    "status": "safe"
+  },
+  "0x7604975e4c78f155adfb4c3fe096c67ce3d9a9f4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "380.60",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7be45b2698396c01121c95c0497dfec9ed088b49": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "559.54",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa7142f046ab2eaeac6fcae696c285233ba4cafc2": {
+    "healthFactor": "1.0025",
+    "collateralUSD": "29.51",
+    "debtUSD": "22.08",
+    "status": "safe"
+  },
+  "0xac96705c7d8d855616d0d753aa4e70ec041aee52": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "26.63",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xabb24002e2b327bd4dcf5d9f6833a2373dc2bb15": {
+    "healthFactor": "1.9879",
+    "collateralUSD": "2721.50",
+    "debtUSD": "1026.75",
+    "status": "safe"
+  },
+  "0x1822d6db3af0d11ae2694978e61baae45908e96b": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "19.74",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x526449185e498eb5193f99215d866dc00dd3cc61": {
+    "healthFactor": "1.8818",
+    "collateralUSD": "415.43",
+    "debtUSD": "165.57",
+    "status": "safe"
+  },
+  "0xf31860b6f8db371a7177d730ed19ef539d980f5e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "153.87",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x44ff61ab753b1c8e8eeb5b42bed92473fe521e39": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "23.40",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x00214fb2089db8143314e974b5bdc13abb0d825e": {
+    "healthFactor": "1.1978",
+    "collateralUSD": "61.90",
+    "debtUSD": "38.76",
+    "status": "safe"
+  },
+  "0x3dcd69bff3ad9e2dbd32e5348205bec24979bb43": {
+    "healthFactor": "1.1068",
+    "collateralUSD": "73.27",
+    "debtUSD": "51.31",
+    "status": "safe"
+  },
+  "0xd90bc582a1a39b29ac32780415367a219d8c9ef6": {
+    "healthFactor": "1.0706",
+    "collateralUSD": "2456.26",
+    "debtUSD": "1720.68",
+    "status": "safe"
+  },
+  "0xe361d31842e1e809279c55a9aadd496b1915a92e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "95.86",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8fb3c7a659148c54e73e009483fe1e6ff7a72432": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20.39",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1f7237a9031a5b23c0d0e9fa0be8fcefd8d0ee51": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "32.72",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x4770f67db9d09ca7347c1fccbf3795a464065ecb": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "59.21",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa9e3d50315bb3c80f99f3f7d320d825b19e85bbf": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "169.64",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb4e8ef1dfb273a72baa69639ac3ae8b584892e3e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1045.03",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x72c009ca402b416f79d4a59bd4550ff9719f5ccd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10.65",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc476106229d04487914de7e4fe39733423cb6d83": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "29.28",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3051739297f6818047d29f2aa059ab9deca0206c": {
+    "healthFactor": "2.0772",
+    "collateralUSD": "252.91",
+    "debtUSD": "97.38",
+    "status": "safe"
+  },
+  "0xff5a8c54cb09e388966be7db405597224e912831": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "16.51",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe9cd5448b3755b90e561727a49898391dcd7585b": {
+    "healthFactor": "1.6718",
+    "collateralUSD": "37.25",
+    "debtUSD": "16.71",
+    "status": "safe"
+  },
+  "0xb0b596a1c0c7378f56b77c08803c3cb2e76e8ddc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10.65",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1a1a093aa247634903617aeb3a514d4a68c70285": {
+    "healthFactor": "1.6566",
+    "collateralUSD": "459.26",
+    "debtUSD": "207.92",
+    "status": "safe"
+  },
+  "0xa752cf8614d8d695e5f17faa3819945bf8fd4e23": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "287.02",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x15a63320b727e4c15c89b2241b3408ba9a8f7bda": {
+    "healthFactor": "1.1001",
+    "collateralUSD": "4610.52",
+    "debtUSD": "3143.24",
+    "status": "safe"
+  },
+  "0x0bba52b84661328e03e2f6a44492abd6bdbcba6b": {
+    "healthFactor": "1.4073",
+    "collateralUSD": "29049.27",
+    "debtUSD": "15861.42",
+    "status": "safe"
+  },
+  "0xda446977bad0c42b94a7515d991c3de4f95509a0": {
+    "healthFactor": "1.8038",
+    "collateralUSD": "780.39",
+    "debtUSD": "346.02",
+    "status": "safe"
+  },
+  "0x0b11d76b1f3feb8e2e9de9355d6f119a67d2dd89": {
+    "healthFactor": "17.2089",
+    "collateralUSD": "4705.23",
+    "debtUSD": "205.06",
+    "status": "safe"
+  },
+  "0xf798ebafe673f1e42d4819c8d857c33c635ccb65": {
+    "healthFactor": "2.0203",
+    "collateralUSD": "1663.06",
+    "debtUSD": "642.65",
+    "status": "safe"
+  },
+  "0x26e40355c98411a0f7b6da9bcf898e9604bb2807": {
+    "healthFactor": "6.0336",
+    "collateralUSD": "2347.32",
+    "debtUSD": "286.10",
+    "status": "safe"
+  },
+  "0x40baaa49a765a8465706e7ecb9ef97b1917f082a": {
+    "healthFactor": "1.6911",
+    "collateralUSD": "383.51",
+    "debtUSD": "170.08",
+    "status": "safe"
+  },
+  "0xa8ab6f0d6969591dfee859a8e0a5a5fd23b3c365": {
+    "healthFactor": "2.1317",
+    "collateralUSD": "58.57",
+    "debtUSD": "20.61",
+    "status": "safe"
+  },
+  "0x75b8cd7874d1a6369869f23e6a9f98fbe649d700": {
+    "healthFactor": "1.0728",
+    "collateralUSD": "1245.25",
+    "debtUSD": "870.56",
+    "status": "safe"
+  },
+  "0x31cfb8830ef60bdb937141e025244ceeebe34831": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "26.62",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7b580a4ac65ded38d16537c9a859df007f242135": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "39.14",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xce7eeaac3c712fd9c01e8f73fa5848731d86345d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "222.34",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x02dbe46169fdf6555f2a125eee3dce49703b13f5": {
+    "healthFactor": "2.4599",
+    "collateralUSD": "270.10",
+    "debtUSD": "84.94",
+    "status": "safe"
+  },
+  "0xd5bd34cd19fb90b200a3d46e1f94d160498ca92f": {
+    "healthFactor": "4.7590",
+    "collateralUSD": "36.48",
+    "debtUSD": "5.75",
+    "status": "safe"
+  },
+  "0x5abb53d89c5dd02669a343cc8964ef214252a05f": {
+    "healthFactor": "2.6413",
+    "collateralUSD": "88.70",
+    "debtUSD": "25.19",
+    "status": "safe"
+  },
+  "0xab7c7efc8013e6f8145d3f42489bd233cb74eb18": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "53.39",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd29159b473cd416c877025285c63dae8db5996a5": {
+    "healthFactor": "1.0722",
+    "collateralUSD": "437.84",
+    "debtUSD": "306.27",
+    "status": "safe"
+  },
+  "0x1c6fc195bc911277c370f4eb617702e76c36f29d": {
+    "healthFactor": "2.6398",
+    "collateralUSD": "2251.33",
+    "debtUSD": "679.39",
+    "status": "safe"
+  },
+  "0x0996377e028bcb07fcf33fb9a4ea080a4346acaf": {
+    "healthFactor": "1.1634",
+    "collateralUSD": "619.67",
+    "debtUSD": "399.48",
+    "status": "safe"
+  },
+  "0x5c53bb1ec746210ceeaca39f9bc3172bfe06a016": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2134.86",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0b4e05926eadfedb8b42886f98434e620e604f1b": {
+    "healthFactor": "3.5883",
+    "collateralUSD": "72.34",
+    "debtUSD": "15.12",
+    "status": "safe"
+  },
+  "0x0c86a16869e3fb8c93e075a19e90a4b0354f3ddb": {
+    "healthFactor": "1.1072",
+    "collateralUSD": "597.97",
+    "debtUSD": "405.28",
+    "status": "safe"
+  },
+  "0x3984efb9f6c42b3e51c117165a0fc1bbd2391861": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "35972.51",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbae5c01d1b91a39df4fc752d270df05c1920beda": {
+    "healthFactor": "1.8966",
+    "collateralUSD": "35.67",
+    "debtUSD": "14.10",
+    "status": "safe"
+  },
+  "0xacb4a7e1b9fdd971f0b2972529a1454aa1f137a7": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "323.95",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf74af0eb994cafd10b6c7f28b259d2df54e9e04c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "183.31",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfada32a128579a01a18c91c6038ac72ad8d6c4a1": {
+    "healthFactor": "1.9785",
+    "collateralUSD": "250.72",
+    "debtUSD": "101.31",
+    "status": "safe"
+  },
+  "0x03b7f820f93b702767cf5332710cdf6df44f3c02": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "78.67",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6e0eb1a4038ee4f6c6846d7a7203660a1bdf7b5a": {
+    "healthFactor": "2.1224",
+    "collateralUSD": "2356.67",
+    "debtUSD": "851.33",
+    "status": "safe"
+  },
+  "0x6358439549758ccf53af19a496c34c30ab5f31fd": {
+    "healthFactor": "5.9740",
+    "collateralUSD": "4021.21",
+    "debtUSD": "503.83",
+    "status": "safe"
+  },
+  "0xb528884d486a4734c55dc0e6398941f3362f2b54": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "240.07",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xcac5bd614a7854e9fccc3f2b12128c51aa71f7b9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "46.30",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x208036518f018fce7fb002f7eb168275454dac22": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "12.77",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x96bb32d3828a4cc8a6f040e951e680155ed2a83e": {
+    "healthFactor": "1.3269",
+    "collateralUSD": "1139.99",
+    "debtUSD": "644.35",
+    "status": "safe"
+  },
+  "0xbf062883c7d14cbe0b2041c6e4e50d257321ff06": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "7194.33",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xca1c42dc0748dea7283b0cae263415282a45c5e2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "52.96",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbdf9f5eab92ebfa4ccffe083b9a6a50f129b5314": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "33.53",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5123e19d18ea0151afb04cff91556fe85094f19c": {
+    "healthFactor": "1.6667",
+    "collateralUSD": "508.71",
+    "debtUSD": "230.28",
+    "status": "safe"
+  },
+  "0xe481dcfe6d148a0f0c520f91337800e55ae3a71f": {
+    "healthFactor": "1.1641",
+    "collateralUSD": "3306.40",
+    "debtUSD": "2130.31",
+    "status": "safe"
+  },
+  "0x6c94cae58c79376e52e08cb6e46e7fd6cb839c00": {
+    "healthFactor": "1.1393",
+    "collateralUSD": "224.06",
+    "debtUSD": "147.50",
+    "status": "safe"
+  },
+  "0x7bb43f5823e214a446e492c89937daf389f3a041": {
+    "healthFactor": "11614585.8160",
+    "collateralUSD": "282.02",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbf14de32ccc485b545ee9c9e734922d553953501": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "30.99",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x36f23684fa78aee718c112af9a9ab96e03717f8f": {
+    "healthFactor": "1.0755",
+    "collateralUSD": "7611.92",
+    "debtUSD": "5265.12",
+    "status": "safe"
+  },
+  "0xcc52b392142887396744b7303184514808a8bf1f": {
+    "healthFactor": "2.6994",
+    "collateralUSD": "544.01",
+    "debtUSD": "151.15",
+    "status": "safe"
+  },
+  "0x11ec09e669a760d6f84ff357b885aadaaa0b0058": {
+    "healthFactor": "3.6560",
+    "collateralUSD": "493.77",
+    "debtUSD": "101.27",
+    "status": "safe"
+  },
+  "0xa72542d8a2718e64331986f856a44c75bdc1e487": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10.64",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc3f0cb0b70ef09c17fbdea0059c0e85fd324f94b": {
+    "healthFactor": "19.9901",
+    "collateralUSD": "20354.48",
+    "debtUSD": "812.55",
+    "status": "safe"
+  },
+  "0x1b92865380aa94b503079af9428796e4af3c9747": {
+    "healthFactor": "1.6395",
+    "collateralUSD": "24.08",
+    "debtUSD": "11.37",
+    "status": "safe"
+  },
+  "0x6583e140b529ab51b853dfeab70ddedf9546cca6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "234.70",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfc584071caab1043f5845e07c4e1ffe3fe7e7e72": {
+    "healthFactor": "1.1554",
+    "collateralUSD": "31290.47",
+    "debtUSD": "20718.16",
+    "status": "safe"
+  },
+  "0xb3e74de43176bb5d9922fc611e30ee736a5b65ad": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2205.86",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8d0a63111d8d0a5aa34f84b84890f16ce89cae68": {
+    "healthFactor": "2.8699",
+    "collateralUSD": "9555.72",
+    "debtUSD": "2663.73",
+    "status": "safe"
+  },
+  "0x2ba16ac5341b1da2978dd32e39e79ded492a8984": {
+    "healthFactor": "26.2382",
+    "collateralUSD": "39927.28",
+    "debtUSD": "1217.23",
+    "status": "safe"
+  },
+  "0xb761028ab20e58b7c0cdc46da6bb2e29b714b4f7": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "143.92",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x864a3c0ce6d49dad02ffc814db82dad916841c52": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "45144.82",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x52885b83429d523cb702335b36043d21339f5bf6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4354.77",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa32104b11d118ec05ffb751ba82f6a616384857d": {
+    "healthFactor": "8.9773",
+    "collateralUSD": "24770.35",
+    "debtUSD": "2207.38",
+    "status": "safe"
+  },
+  "0x4cfd3501b912195854d9792d0041efd4a620c0ca": {
+    "healthFactor": "2.3324",
+    "collateralUSD": "366393.88",
+    "debtUSD": "118082.73",
+    "status": "safe"
+  },
+  "0xaf96ce1e1952b2308eb36515867e041f32490ef4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1285.64",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x9845bfddb7418448f291e05554a75be52b5f0db4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "6136.16",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe93a9a8f02e3a1c781fe50e36a5ab0189dc8b3db": {
+    "healthFactor": "2.1847",
+    "collateralUSD": "92.30",
+    "debtUSD": "33.40",
+    "status": "safe"
+  },
+  "0x4d0d682cbdbf2c120018b0a56f318057926b67f0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "13.76",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3e47985cc62312c47678b7983bd55e792d54f5ee": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1138.54",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf8f37fa5de6f6e1696379e8b6531c59c167a056a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "123.16",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1a1d2a6bc219aa7912fad7e4d2fd51e00a05161f": {
+    "healthFactor": "1.4558",
+    "collateralUSD": "74760.07",
+    "debtUSD": "41083.53",
+    "status": "safe"
+  },
+  "0x622f2dad335a999f77ef2e45ca0bda6e6ff78d86": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "61.56",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x20c5b75b94ce414784bf07e04541755a11f4eca7": {
+    "healthFactor": "1.3277",
+    "collateralUSD": "8359.93",
+    "debtUSD": "4731.98",
+    "status": "safe"
+  },
+  "0xab0defa925655835e86dc6ae47291f43a6e9d3cc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "122.21",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1e1b1101b9fcc6d52d6f5a82eb5e07c849ad64b1": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "77.01",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7058158ce599988ad5c32bd8562de55da2d913dc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20014.95",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3cd8ad7a06104cf1d689360bf4ce06f5360772e5": {
+    "healthFactor": "4.7662",
+    "collateralUSD": "31187.06",
+    "debtUSD": "5179.69",
+    "status": "safe"
+  },
+  "0x29a77d6f5ce6966b36df52503135d3250b264b63": {
+    "healthFactor": "11.6391",
+    "collateralUSD": "17256.04",
+    "debtUSD": "1173.92",
+    "status": "safe"
+  },
+  "0x45437f85a187ab2c4aa519ab3c88e6f366fb1bdf": {
+    "healthFactor": "8.1032",
+    "collateralUSD": "5282.13",
+    "debtUSD": "518.23",
+    "status": "safe"
+  },
+  "0xf0363622fd35e918d4da5d4f568f51b342b34f66": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "683.80",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8e3e62e2229f49ab0a4f5028d05840bb89e20378": {
+    "healthFactor": "5.9578",
+    "collateralUSD": "1783.12",
+    "debtUSD": "237.34",
+    "status": "safe"
+  },
+  "0x29e83a72648fda0413c02f08563e5a2c87e4376a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "187.57",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x95870eb7b925be6c42f50ba48dd369a9f6a87708": {
+    "healthFactor": "11.8432",
+    "collateralUSD": "7725.45",
+    "debtUSD": "519.63",
+    "status": "safe"
+  },
+  "0xa3320f745611cf004bf02b8186d89ab2304a9fa9": {
+    "healthFactor": "4.4328",
+    "collateralUSD": "1911.76",
+    "debtUSD": "340.97",
+    "status": "safe"
+  },
+  "0x094e59706d52e2f95a57e7d399871522a4037923": {
+    "healthFactor": "3.2950",
+    "collateralUSD": "1824.75",
+    "debtUSD": "433.90",
+    "status": "safe"
+  },
+  "0xb0720a40d6335df0ac90ff9e4b755217632ca78c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "729.01",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7352e119c4af3843f3125a3c188aa0d01d26121c": {
+    "healthFactor": "11.1871",
+    "collateralUSD": "6073.01",
+    "debtUSD": "434.29",
+    "status": "safe"
+  },
+  "0x89cc54e4a15eb5d4a92156063745c18a4fb95de9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "36267.73",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xaead5fd0f9e5d6f38796205eb0584641a5a750c9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "540032.59",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc54553a06c41c0cab2315cdab0ec3fbc610ec75d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "18026.16",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb9916e7a263f2044fd78b2377fe110ccc42d0d24": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "23873.13",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xea61feaabfb34d15097f50fb13262b0ba18130d4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "65.45",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfb48a0bde11fdc1677be4752368bd5586023550e": {
+    "healthFactor": "2.2073",
+    "collateralUSD": "444045.15",
+    "debtUSD": "154944.86",
+    "status": "safe"
+  },
+  "0x7b59a85a2de94712ab15d56a300d564c7a6b3031": {
+    "healthFactor": "152.9477",
+    "collateralUSD": "185.25",
+    "debtUSD": "0.95",
+    "status": "safe"
+  },
+  "0x4dde9674acde65689e70bf8b357d24f23bc6c315": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "148.10",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe1350fac12ce1dcdf9a0e85bd939e8114b92e564": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "290.29",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x28e33a8b98ac880bb9d37290ba720bd11e5258fa": {
+    "healthFactor": "2.8475",
+    "collateralUSD": "2925.81",
+    "debtUSD": "821.99",
+    "status": "safe"
+  },
+  "0x84e8e9fc82e0b3af0ab23d3755ed0e8eff53a8a8": {
+    "healthFactor": "39900.0858",
+    "collateralUSD": "2092.35",
+    "debtUSD": "0.04",
+    "status": "safe"
+  },
+  "0xd835428477aa676b1796cf025b85021b0d981831": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "22.95",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xad228b05487c7d2e98d0779daed8822e44f4bcc7": {
+    "healthFactor": "4.1411",
+    "collateralUSD": "6839.72",
+    "debtUSD": "1275.41",
+    "status": "safe"
+  },
+  "0x80e410a2a7358abe744044615eb1e09ae472d208": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "119.67",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8b6adadfd4b5c7b3b0f17eb70536e584b711120d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "53.72",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x24da95b00743d2757fcb4d3570e09398f246e5af": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "135.58",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x866b6e9967fa1cd71b182140589b07802730ed34": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "136.22",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x62ed028e9a7b650aed5e3f0e7d74ec3268fd56ab": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "130.44",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8f43e0ac1977760c0497b6353236dfc948327972": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "137.50",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1c2cf9d72b0a817c05531ee9b4c33ec24920ea6f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "132.36",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x886000bf6a3113e549f77215ecec26fbd40e8476": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "130.44",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3038177bdce76ad18d8dd57215dfb165e3de2e60": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "132.82",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5af33f83f5e5bcd93f81f3b76eb78e44f73132d0": {
+    "healthFactor": "4.4634",
+    "collateralUSD": "181.52",
+    "debtUSD": "32.53",
+    "status": "safe"
+  },
+  "0xeb94b695e1e6f0bb6f2953ecb009a15e8b345166": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "56433.04",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x53abf620569299cbac3685af2e9bb2123bc870ff": {
+    "healthFactor": "2.3079",
+    "collateralUSD": "22091.19",
+    "debtUSD": "7192.49",
+    "status": "safe"
+  },
+  "0x924d5ead293553af8884bce1ca7e891b301568e1": {
+    "healthFactor": "1.2833",
+    "collateralUSD": "18.32",
+    "debtUSD": "11.42",
+    "status": "safe"
+  },
+  "0x193841ef467dbde78fa61123701d8845a0231a5b": {
+    "healthFactor": "1.0667",
+    "collateralUSD": "2705.60",
+    "debtUSD": "1990.58",
+    "status": "safe"
+  },
+  "0x5796a395cc4cff283ffa8a6c7ff6a5f913829dc6": {
+    "healthFactor": "1.5787",
+    "collateralUSD": "4097.38",
+    "debtUSD": "2012.96",
+    "status": "safe"
+  },
+  "0x01d8d1394b3d4fe2eca41d1335a18c98f21bda89": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "11872.94",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x31ac9896f4ef59976b540db2edf45f4f3e058812": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "54283.91",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x94be15d83a49c960d06d785d8738efb7c7703dcc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1194.38",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc6041e79d1964a580014b00de79e637b1f670329": {
+    "healthFactor": "2.9157",
+    "collateralUSD": "11199.05",
+    "debtUSD": "3071.97",
+    "status": "safe"
+  },
+  "0x12fde4b6847421c68614958bab313e562f2e51d9": {
+    "healthFactor": "1.2357",
+    "collateralUSD": "19922.33",
+    "debtUSD": "12088.23",
+    "status": "safe"
+  },
+  "0xc2fe50e4e2a72346108527a815627dda4bbd165c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "132183.41",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe14506b98c9f79a610d24a067403e6201b7ad520": {
+    "healthFactor": "1.2972",
+    "collateralUSD": "3955.65",
+    "debtUSD": "2288.03",
+    "status": "safe"
+  },
+  "0x65c5059eb8df20095911de6cac883e95ff11a298": {
+    "healthFactor": "1687755.1927",
+    "collateralUSD": "478.69",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa44048cd3cf0f333f204fa9bb2dd5dade836f7d6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4336.85",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x4a9e89dfc45113d156c5590c2530ad48675b4aaa": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2656.59",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf4130aadb2df512f623b83ac1c9ff3ec11ef3124": {
+    "healthFactor": "1.2617",
+    "collateralUSD": "4828.27",
+    "debtUSD": "2874.35",
+    "status": "safe"
+  },
+  "0xbfca3aeb81c4ab486c29855ef2deb06929d90991": {
+    "healthFactor": "2.9678",
+    "collateralUSD": "651.54",
+    "debtUSD": "170.14",
+    "status": "safe"
+  },
+  "0x808dacaa443e4c7b2ff657c0be75a9fa3dc519f7": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "121.76",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x58581ab3e51da52eda767e1188a1781254db5cec": {
+    "healthFactor": "2.8454",
+    "collateralUSD": "2646.15",
+    "debtUSD": "743.97",
+    "status": "safe"
+  },
+  "0x68ff67db353a32d59e7eee9df252a71bded336d1": {
+    "healthFactor": "2.6342",
+    "collateralUSD": "361324.86",
+    "debtUSD": "109335.73",
+    "status": "safe"
+  },
+  "0xf5bb6713d0fe78e7b26d35f4f1ff0824ecb42dbc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "116.58",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6d9b4b6a353616ff701a9e7a7a8080d2fa5671c2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "169.79",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xadeed59f446cb0a141837e8f7c22710d759cba65": {
+    "healthFactor": "3.1704",
+    "collateralUSD": "199505.64",
+    "debtUSD": "50342.67",
+    "status": "safe"
+  },
+  "0x0e11694cfb5b262f489706ef306ff05d452c1120": {
+    "healthFactor": "3.2532",
+    "collateralUSD": "165.50",
+    "debtUSD": "40.25",
+    "status": "safe"
+  },
+  "0x9c57027b1eca93093a6f446422c59c85a5a3fa52": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2765.61",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6aad7f7c4424abae84d73e14b36ac192f818570a": {
+    "healthFactor": "1.2251",
+    "collateralUSD": "245.31",
+    "debtUSD": "160.13",
+    "status": "safe"
+  },
+  "0x3984ac5256b1b389de81d51414567ef66f8f5bcc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "838.65",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xeff9736086d11653dbdfb34b6f54c7afdf64a51f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2338.87",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x60601661203d0cff0a2d3a75792c80b8c536a94c": {
+    "healthFactor": "1.2595",
+    "collateralUSD": "20141.03",
+    "debtUSD": "12792.60",
+    "status": "safe"
+  },
+  "0x660662f2b30b375e3cd17d8be43375fd090b93f2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "44421.29",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5adefa6b4c1e343c82c9f2c683918101873fba78": {
+    "healthFactor": "1.6034",
+    "collateralUSD": "34377.67",
+    "debtUSD": "16299.09",
+    "status": "safe"
+  },
+  "0xc5e700d42239dbfc0076467084633580b3503536": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "155064.40",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0e280591619e1c26ea4288b7263dd137f5b4e9a9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "192.77",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf52d592fb1f3ab61452857e486805bd280688114": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "626.36",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8892bb069acb23bb78eb5d7f5bb5142a5f25e6d0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "15195.79",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbde866308fdbc81c99204677e9ea5106fb45c771": {
+    "healthFactor": "4.8386",
+    "collateralUSD": "513.16",
+    "debtUSD": "82.65",
+    "status": "safe"
+  },
+  "0x0feb0f31d67adbbc950ac0c5266490a9a9735a49": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "13840.36",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc28f622742a0a1593a43cd867e14b54db481cc7b": {
+    "healthFactor": "1.9769",
+    "collateralUSD": "16066.45",
+    "debtUSD": "6501.56",
+    "status": "safe"
+  },
+  "0xa04884efdf43890a2fad1788b182118a49a5d01c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10870.53",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x41b28f2024fbf84a6f344cd79f86b497ec3f0f29": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "15793.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7e8d54a8eca7fede8769320107a450f835e5cc13": {
+    "healthFactor": "2.8980",
+    "collateralUSD": "121721.20",
+    "debtUSD": "32067.94",
+    "status": "safe"
+  },
+  "0x7b8e047dfa4b27314c6a7ea5067e356f38666089": {
+    "healthFactor": "2.2119",
+    "collateralUSD": "382265.74",
+    "debtUSD": "137428.28",
+    "status": "safe"
+  },
+  "0x3a9b7887b65a5fd5aaf88705ee5b188b55218bbb": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "8681.90",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x23d59cf0cc3e289a8dda55fef974e5a93f6dc5ef": {
+    "healthFactor": "1.1844",
+    "collateralUSD": "136130.49",
+    "debtUSD": "89925.30",
+    "status": "safe"
+  },
+  "0xecc25cea153e38052ce8485f05fd5362cdfe569b": {
+    "healthFactor": "44.0866",
+    "collateralUSD": "742.57",
+    "debtUSD": "13.43",
+    "status": "safe"
+  },
+  "0x0583aa20a0fc11e7ead0b2f8b504aaf4f468238f": {
+    "healthFactor": "1.4758",
+    "collateralUSD": "558.76",
+    "debtUSD": "295.16",
+    "status": "safe"
+  },
+  "0x4afface441338c130a6125d816b10c0ba806a215": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "5220.30",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7c5e473c4dcf5b5970092c5b0b5ad262c2b4bfb2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "22056.17",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd2645f07b873553621042aa499e1da490fba47f4": {
+    "healthFactor": "1.6064",
+    "collateralUSD": "364177.38",
+    "debtUSD": "181344.77",
+    "status": "safe"
+  },
+  "0x52e0bbf787ba858057b849e0f5abd1cd60a3c536": {
+    "healthFactor": "1.9269",
+    "collateralUSD": "11595.71",
+    "debtUSD": "4814.34",
+    "status": "safe"
+  },
+  "0x63c7a38f32401f88f7b352a556fe65e2304cfccd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1576.40",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x907d8e9b66b06fc96fcd58caacb113cbdd586b43": {
+    "healthFactor": "4.1317",
+    "collateralUSD": "15458.17",
+    "debtUSD": "2955.65",
+    "status": "safe"
+  },
+  "0x16e1bc23c2210ed6c8410e3c6ec0fd8c0b5662da": {
+    "healthFactor": "48.3375",
+    "collateralUSD": "20813.77",
+    "debtUSD": "343.74",
+    "status": "safe"
+  },
+  "0x9a3cf28d55e4cfe6c253a6a462a6e71a78bc913c": {
+    "healthFactor": "1.6689",
+    "collateralUSD": "169.47",
+    "debtUSD": "78.86",
+    "status": "safe"
+  },
+  "0x9b454ced0a2ee5e80b8a4a6326214b9b38720930": {
+    "healthFactor": "1.5253",
+    "collateralUSD": "23333.54",
+    "debtUSD": "11801.93",
+    "status": "safe"
+  },
+  "0xd9dc13f3286c15eba48ff55e9f39020a6b1a8591": {
+    "healthFactor": "1.5864",
+    "collateralUSD": "7533.52",
+    "debtUSD": "3649.83",
+    "status": "safe"
+  },
+  "0x4ffd0a59a26cb2aa76d403215e4cc2845c053994": {
+    "healthFactor": "1.2624",
+    "collateralUSD": "55.01",
+    "debtUSD": "34.86",
+    "status": "safe"
+  },
+  "0x8d4ecc4f019e7a3945609fdacea2402d90781bdd": {
+    "healthFactor": "4.2793",
+    "collateralUSD": "113205.07",
+    "debtUSD": "21163.35",
+    "status": "safe"
+  },
+  "0x564d5aeeb2cde5ecd16da4c0398c3937441359b4": {
+    "healthFactor": "4.8916",
+    "collateralUSD": "31.53",
+    "debtUSD": "5.16",
+    "status": "safe"
+  },
+  "0xd5de54c5a1a8a84fa9d11413b8127634abb39e40": {
+    "healthFactor": "2.2413",
+    "collateralUSD": "16.65",
+    "debtUSD": "5.94",
+    "status": "safe"
+  },
+  "0x9d218d35523e0c54ccd685bad76bca00a588d453": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "131569.06",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x28afcdcd64e5642d13af9d4b816b73320407270a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "56.58",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xaefa764d16625707546729121d91e469e7de6bd5": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "73368.35",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb2b9a8705de99bdc3d152511406eb8695c421f54": {
+    "healthFactor": "40.2818",
+    "collateralUSD": "31510.20",
+    "debtUSD": "625.09",
+    "status": "safe"
+  },
+  "0x1bec4f239f1ec11fd8dc7b31a8fea7a5ba5a9aa4": {
+    "healthFactor": "4.4593",
+    "collateralUSD": "32.61",
+    "debtUSD": "5.85",
+    "status": "safe"
+  },
+  "0xa4c0baedfeae242abeecc98745486a62c5186f10": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "32563.27",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbd2f119846c89b2cbb441155f74bbe258850b1a8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "168.39",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3b68b2d2fc0fb1ea0e852bb92449edec3834d197": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "22.56",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2d832b4e4b39208109f4a6ffafeaaf4d6c63b57f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "148.85",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1429d25cd947596b5494a6491a52d878684cbca6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "33060.77",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1545ba126527529d33828ceb334c90c6a3337004": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "41562.22",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x512524f4d31f9cb0d0d39d3a3a04d7320ed0965f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "12.28",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe203474b93f39eb316ff33944144b179ff2c125c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2571.10",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf27fb0952c18bd29b099cdb7d01e40620a9858b6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2819.49",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb1bf47eb5a7cc8f4c36a77cd4fe0d5d607efb7b1": {
+    "healthFactor": "2.8379",
+    "collateralUSD": "37896.23",
+    "debtUSD": "10029.88",
+    "status": "safe"
+  },
+  "0x324c7200396b01f2bdc8f349f9d57e3d16df40dc": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2160.27",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd3c3bd12d25973d5497397c93faac143fa2ce6ee": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "22978.09",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd89312c71cdbc99f263fc2ba5874d9895cfb4efd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2796.80",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xdc0751a5339c843e2066ddaf7b97504816d6d655": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "39221.67",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf9f1493707aad5c3cb513852481cf81efe4f4bab": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4456.44",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf90655128522eeae690ccd91e9f48ea57811efd1": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2227.64",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x184e9aad141f33b704581a6d117c988d3b3aa83a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10839.26",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x23fb6239bb674b995f5501593f96c036600a7d6a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3659.77",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x140e68d9723519cd3e3d2feea4151135b7aea929": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "5187.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe6efc591d61b894839b43424b8b5f37060abb031": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "45859.09",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3696e5eb2f64bf7e17adeb0d7b3c45274573b7df": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "61045.53",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x87eeebafe6605a67a07b68f69734a4742c832804": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "201.29",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xeb9125565a1531fe0f4d483634e8e25594bb7853": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3643.35",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x95d30549f608c59a745c3d838fc54a23d7ce3ae7": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "204288.29",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc8f5e91a1e4bb9252f4c8f4cd5c85776f13f4669": {
+    "healthFactor": "10.9730",
+    "collateralUSD": "215.87",
+    "debtUSD": "15.74",
+    "status": "safe"
+  },
+  "0xed2a1f4b1b1bffd86c6ab72a55c0f7d21b00d207": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "30162.51",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x08b91b43b35d217cc45af7180dd9478da0761bd0": {
+    "healthFactor": "4012145.4865",
+    "collateralUSD": "1521.55",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbbb255899f4bf4d685ca2064352574f4458218a4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "5560.30",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0ddeb253e906db05b8592f8c017481316241b350": {
+    "healthFactor": "2.5738",
+    "collateralUSD": "110032.70",
+    "debtUSD": "32541.62",
+    "status": "safe"
+  },
+  "0xa4e0a87cd07a4275c6a91450d5058f984ac3f8f5": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2049.13",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xcb457e185336fc1042cf59ee05ce3341c73031ab": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "883.88",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x4c76d5a9ab019179e5646cf081618d7112631137": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "11518.71",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb97805155063d5674e339b7b8dd9dafc5f98038a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1129.57",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5d92a8ee6d011abacee511711f256344723d6bb5": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1478.16",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x586b10e9cd201a30507ec65dd149584cd0eee725": {
+    "healthFactor": "6.8375",
+    "collateralUSD": "9219.38",
+    "debtUSD": "1067.49",
+    "status": "safe"
+  },
+  "0x91b69947db4b40be659141888e6c8f80e931c8af": {
+    "healthFactor": "1.1078",
+    "collateralUSD": "158.97",
+    "debtUSD": "111.56",
+    "status": "safe"
+  },
+  "0xc6048d08fce677d1416434aeda55d2a460aac1cf": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "16834.52",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5da0de8594bb15d6424c751d5137b826e605fd72": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "454.31",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x26a6039f26ce6dbbf3e03633c7cee45231657b86": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4080.68",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x717730acab4a035a38fe39cdea1f4a258831a254": {
+    "healthFactor": "2.1116",
+    "collateralUSD": "89625.43",
+    "debtUSD": "33955.44",
+    "status": "safe"
+  },
+  "0x7b7154f808ada8c75635c29e7968cc3b35ef523b": {
+    "healthFactor": "3.9351",
+    "collateralUSD": "3754.85",
+    "debtUSD": "753.43",
+    "status": "safe"
+  },
+  "0x8538c81163b0e13701700f2ac4fe7f3441e1c8dd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1176.76",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x65085c196aaca9bde4f5a5553b8a5a847fd884b8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "8179.08",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x223d988b6033aec42f35c6998bb61b47beeccde7": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3069.43",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x290edeb4ee4a6f17268844eb71d708f2f684ea0e": {
+    "healthFactor": "1.5529",
+    "collateralUSD": "43006.17",
+    "debtUSD": "22155.05",
+    "status": "safe"
+  },
+  "0xaa53d0bd2a38692835027a5662743f56d84db9d2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20693.71",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0ef3d85a9fcefa3a700db5250d6c051057f066b1": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "14354.50",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x56eb00695024726932d36c83fe522d9b8611a0e0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "9111.12",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x4690f6474559e7f606c3d9045be1fd395b7d7afe": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "257.56",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xff4b37f5626f7581407e4150062d9dddeb46eaa3": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "0.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8f94669b36f99a484556eb11ee0117a43abc2258": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "7920.59",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa3e66ec6feaa3b0ba55e28d3dc0e2a7313df8837": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "100337.68",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x111fbf7b389e024d09f35fb091d7d4479b321b0a": {
+    "healthFactor": "1.4568",
+    "collateralUSD": "86.46",
+    "debtUSD": "47.48",
+    "status": "safe"
+  },
+  "0x8800204722e81cabdcd96760562f88e674f9efe6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "36.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa6346181e41c42435e5c624856c41dcd07b139d6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "33535.08",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe3e0ac6ae0841f315a38523584766e52a6873f4a": {
+    "healthFactor": "1.3662",
+    "collateralUSD": "34020.91",
+    "debtUSD": "19921.81",
+    "status": "safe"
+  },
+  "0x8314f9adcc8fee19dc4f497bc283092931677038": {
+    "healthFactor": "3.2833",
+    "collateralUSD": "747.57",
+    "debtUSD": "182.15",
+    "status": "safe"
+  },
+  "0xb122b561fffa4096d9832bb76c534a0c7157354b": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1567.14",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf300a6e751de095b2a1946c3d460f594a750cca0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "191604.48",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb365f1bbf34a698955fd6f3009b3f9740a596998": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "147.62",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x98ceff9b5d64aec307c2522a2ca73ccc33867f17": {
+    "healthFactor": "2.1672",
+    "collateralUSD": "624.44",
+    "debtUSD": "217.08",
+    "status": "safe"
+  },
+  "0x56e5b3628e096e95fb81e50ff538cec435afcd7e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "46589.92",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2741797cd797a1fe235f6ca68acd82303dc65255": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "32.43",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x93be03741723711fee4925188fb8c918fe844807": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20102.86",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc6c9dee25913b3ba685eebf2081737d82ca27e9e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "150183.46",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xca56260ede4239f484bf61092da69687b07eace5": {
+    "healthFactor": "2.4031",
+    "collateralUSD": "61540.52",
+    "debtUSD": "20263.83",
+    "status": "safe"
+  },
+  "0x4753d3dcd175ea4e048464e478bb898a2303523d": {
+    "healthFactor": "3.0892",
+    "collateralUSD": "41092.25",
+    "debtUSD": "10641.57",
+    "status": "safe"
+  },
+  "0x9d0106c633158f0da25c561f1cddda3a9d321874": {
+    "healthFactor": "1.7805",
+    "collateralUSD": "1698.20",
+    "debtUSD": "763.04",
+    "status": "safe"
+  },
+  "0xa2b4c41451943e4aa8d668eb4643e587ace61209": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "444.61",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc1f759bb1256dda6464268d73043fc3bba050367": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4310.98",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x90d15c15c1b68af0ed872c33775d3177712a0b67": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "61875.26",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd353a4add0db71e4085b880930c950f5dcd9fd11": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "31572.09",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbfe1efa782028779a9559e9ef6af483822b0fed4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3588.76",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa8ea5ed5b7b99b7351f4c1357e913d20b49746ba": {
+    "healthFactor": "2.4625",
+    "collateralUSD": "37962.55",
+    "debtUSD": "12332.95",
+    "status": "safe"
+  },
+  "0x933e2cd78dc4325222bd1acdf05e1defe53855dd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20105.19",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd6f0ff0d496c5d42b9df2e91aa17c51c14a7ff2f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "102.78",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2fe98e5bd76a38ee1d98081fc0ed42c3efa1b080": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3304.01",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0d0dc1eeb9b0f806115906b5296af44879d9748a": {
+    "healthFactor": "3.3752",
+    "collateralUSD": "63.15",
+    "debtUSD": "14.82",
+    "status": "safe"
+  },
+  "0x7a438c2998e0fa0e530987ab7a1f6ada1d4dc531": {
+    "healthFactor": "3.6579",
+    "collateralUSD": "29139.21",
+    "debtUSD": "6372.84",
+    "status": "safe"
+  },
+  "0xbb83bc7dadfeb99b42d82cf87a0570b54cc45244": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "319311.86",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbcfd1fa42a68f5168f2f449d8aadb75593443b29": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1664.54",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa6a4968fd8890dace87a2fce4d505382619c63dd": {
+    "healthFactor": "1.2976",
+    "collateralUSD": "3162.96",
+    "debtUSD": "1844.04",
+    "status": "safe"
+  },
+  "0x3cbb950f686332ae3865d294e1997d0a0c50b345": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1033.15",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfc93728a243c5d9d16991a1ec3985c6ffa29cd05": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20.42",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6852472606c92d7c491f61e43d4517ceb5f0cde6": {
+    "healthFactor": "2.2488",
+    "collateralUSD": "60.51",
+    "debtUSD": "21.53",
+    "status": "safe"
+  },
+  "0xe94f6a9529a1a511a2c03d8a10d1e34d6ebc00d8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10511.63",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x454dbe9f53d08d5f0d448f46ac9565d16bca9fcf": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "179.78",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8db56ca245d22f8eadc601faa4b8cca406410149": {
+    "healthFactor": "1.9606",
+    "collateralUSD": "42.67",
+    "debtUSD": "17.41",
+    "status": "safe"
+  },
+  "0x0fbcca1ab922bced49b7fc672d45cea2bfcee48d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10479.42",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x37da69c41efd78068cea2254945a4e02522b5163": {
+    "healthFactor": "8.3970",
+    "collateralUSD": "222.90",
+    "debtUSD": "20.30",
+    "status": "safe"
+  },
+  "0x7c68c04aca59ed7a72e48d1cbda8c82828863560": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "26017.30",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xde96992f66a1c93e7c5315038fb814791ab355e7": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "57232.12",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x398147254a852fe0efeddad578e510690b3143db": {
+    "healthFactor": "3.5600",
+    "collateralUSD": "35.83",
+    "debtUSD": "8.05",
+    "status": "safe"
+  },
+  "0x51615c923bf426e2f2a466ed690393eebd025d9d": {
+    "healthFactor": "1.7617",
+    "collateralUSD": "84891.31",
+    "debtUSD": "38549.52",
+    "status": "safe"
+  },
+  "0x091ca7e4c0fa587a47ff89bce9567a008be9f762": {
+    "healthFactor": "366.3560",
+    "collateralUSD": "2306.37",
+    "debtUSD": "5.03",
+    "status": "safe"
+  },
+  "0xb5abaf486349a508136c201bdfd9147d9d5acc7b": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1136355.14",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc767498f7d1e2f4a3acc9cb35ee08862d70fa611": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "25874.98",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfa48652c93a2067d43d7518248a56c70925938b5": {
+    "healthFactor": "1.1173",
+    "collateralUSD": "2056.87",
+    "debtUSD": "1387.29",
+    "status": "safe"
+  },
+  "0x365647d3d086919fb8afb1f3e7cd02ad50e8b867": {
+    "healthFactor": "4.3696",
+    "collateralUSD": "8527.41",
+    "debtUSD": "1561.22",
+    "status": "safe"
+  },
+  "0xe265a9d61ea45a3905087bb477503acb82b6978f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4292.15",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x9b96b5f7f73428eb9c83742b43b14267fd7dd5dd": {
+    "healthFactor": "580.3543",
+    "collateralUSD": "36577.94",
+    "debtUSD": "50.41",
+    "status": "safe"
+  },
+  "0x6962e66718f7b14c9c17691d5a7299909144d62e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "5434.32",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb7c430a2f69504715ad0fade1fae1cacbde96810": {
+    "healthFactor": "2.2031",
+    "collateralUSD": "9463.82",
+    "debtUSD": "3434.00",
+    "status": "safe"
+  },
+  "0x3370df232103a87063d888c53791f8a03c290e44": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "4359.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x504a8a436b0371b05cabd036d982262ba46f3328": {
+    "healthFactor": "2.1014",
+    "collateralUSD": "909.80",
+    "debtUSD": "345.71",
+    "status": "safe"
+  },
+  "0xe88cc7a64b69200bf778820ea8b32a9e1a491cda": {
+    "healthFactor": "1.6238",
+    "collateralUSD": "100880.18",
+    "debtUSD": "48166.56",
+    "status": "safe"
+  },
+  "0xdf0a5326449243904b64ca4f4e5a7260a289173c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "41.86",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x7f3f03bbad89f0dde457120fa2e2fa3c6339b8cc": {
+    "healthFactor": "2.3902",
+    "collateralUSD": "1989.12",
+    "debtUSD": "639.87",
+    "status": "safe"
+  },
+  "0xc1e977c3dee1c1903cf57511cbe96681f1add87b": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "49662.72",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x37131eddc4442da1833818f60bf99268a69d5132": {
+    "healthFactor": "2.0595",
+    "collateralUSD": "41092.23",
+    "debtUSD": "15961.99",
+    "status": "safe"
+  },
+  "0xb71f2989dc6a2eb9639146c356c04feb08697ba0": {
+    "healthFactor": "1.8144",
+    "collateralUSD": "21.97",
+    "debtUSD": "9.69",
+    "status": "safe"
+  },
+  "0x1a34f791013bd9d752cea6e83c4ff1f0d847ed75": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "72525.88",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xab60c06328e5abdaec74087c5cbde45efd82c830": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3714.61",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbfb6e69aa3670b716b091f5167e36947ef3ba741": {
+    "healthFactor": "2.1800",
+    "collateralUSD": "9872.92",
+    "debtUSD": "3620.40",
+    "status": "safe"
+  },
+  "0x024a140fa0edb71ce2c9ccbe1f360d59e7ce0718": {
+    "healthFactor": "2.6192",
+    "collateralUSD": "70985.82",
+    "debtUSD": "21278.16",
+    "status": "safe"
+  },
+  "0x67c00497ce8b1ce4fa112f1d332fb16e777d9b61": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2048.64",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x89ee2726916937a8f91cb686334855443eaff698": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "120.07",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x42ff5056dc71b28467698ff48644d2ae62776eed": {
+    "healthFactor": "1.6583",
+    "collateralUSD": "72121.66",
+    "debtUSD": "34792.06",
+    "status": "safe"
+  },
+  "0x6d90c5f8acf578f1e79f3a74f0a95a6ff0a8c73a": {
+    "healthFactor": "1.4479",
+    "collateralUSD": "62727.70",
+    "debtUSD": "34658.68",
+    "status": "safe"
+  },
+  "0x9c02b18874753a28d84771cf99dd0b9433199ea9": {
+    "healthFactor": "2.1228",
+    "collateralUSD": "17973.08",
+    "debtUSD": "6471.79",
+    "status": "safe"
+  },
+  "0x71b5dcef1fbbc2aa16862b8c22fdfd48aaed80a5": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10048.23",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x50f4303fccfbc98ba8b55828bfc39585134a896d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1028.76",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3bf0aa2fa2b7518e85af13540c0dfd16b382e799": {
+    "healthFactor": "3.4386",
+    "collateralUSD": "8016.39",
+    "debtUSD": "1832.40",
+    "status": "safe"
+  },
+  "0x38019cd45c8543fb450ca80661be95ce65cd104a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2607.48",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf7888cb9ad0f80ee3094394114e87171677077e4": {
+    "healthFactor": "5.6306",
+    "collateralUSD": "31537.15",
+    "debtUSD": "4422.58",
+    "status": "safe"
+  },
+  "0xcf95f8c26bdceb675e0ec01b44dd9a92ea42abf8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "82.09",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5db1165f9c55994961b7e9c1f63084d1e58f7064": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "29506.60",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xec593224fc6e2378a3e4afd39d8cc2a72e67756b": {
+    "healthFactor": "1.8588",
+    "collateralUSD": "5677.11",
+    "debtUSD": "2443.29",
+    "status": "safe"
+  },
+  "0x25cd8a3918114fc7e73f5f599004119008383ca1": {
+    "healthFactor": "1.4938",
+    "collateralUSD": "143005.02",
+    "debtUSD": "72653.41",
+    "status": "safe"
+  },
+  "0x0c7c17db861b143715b860057621660799b7d3f3": {
+    "healthFactor": "1.7936",
+    "collateralUSD": "141.99",
+    "debtUSD": "63.32",
+    "status": "safe"
+  },
+  "0x05ba88d38939275321d4753cd4ab1ff38526ae4a": {
+    "healthFactor": "23.1180",
+    "collateralUSD": "219.27",
+    "debtUSD": "7.55",
+    "status": "safe"
+  },
+  "0xfea29ca4a420359d6c77cd07275f0ec34ee70d12": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "676.47",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x29d4afb40c28cb051554d9cca9edfe739f64187c": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20678.74",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xb0e72e6ae9ef200b3b04c00d4630d7650ddbd761": {
+    "healthFactor": "1.6011",
+    "collateralUSD": "12059.99",
+    "debtUSD": "6025.85",
+    "status": "safe"
+  },
+  "0x25fbc5068358ecf1dde14701027c8b28427e00a4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2548.19",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x93d929f3321f17dd9f7e92e7bf05c2c17529b777": {
+    "healthFactor": "2.7151",
+    "collateralUSD": "4918.84",
+    "debtUSD": "1449.35",
+    "status": "safe"
+  },
+  "0xb23bb2d471178003ca4327c06ca57a7a36e44e38": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "95408.80",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3128c6889a9ce73648b9bd79927a9a5a796177dd": {
+    "healthFactor": "2.2459",
+    "collateralUSD": "20961.23",
+    "debtUSD": "7466.58",
+    "status": "safe"
+  },
+  "0x1831e62de2e160bf64822c62afbb6a563a00f9c8": {
+    "healthFactor": "2.8511",
+    "collateralUSD": "336.88",
+    "debtUSD": "92.17",
+    "status": "safe"
+  },
+  "0x3fae167f8d9bb5167b05e952dab4ac19f01b24c6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "455.26",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x181c573cb3866baa32babda65616f277686931cf": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "840.30",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd1663ab8117189215b95b1d00a3d886792af11a8": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3182.21",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xfac4bc306475c864f2ba370070bfa9776ac91f4d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20094.01",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2f50793639aa8d930774466bd361913388c823b3": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "17687.36",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x91e418a8f76134ab695caa5addd40d91dafd4abf": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "564.39",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5a9aae22f55a5ef04862c240d2f0fb9e4ec0822e": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "564.39",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x22461e92807d8b6fb2cb05af2b06ea84e58604e6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "15186.57",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6616613a0ae1b6861b29b8ed0211533faa4623e2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1025.40",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x531c9949c03fbefe8db028bd7ea62ddf5ffbf6af": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "74521.82",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x812e2df19e06cb887b52707e4b5969bc69a44183": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20420.87",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x98c5add2e63c02beb8ccaa0156e4fefd480c3267": {
+    "healthFactor": "2.3806",
+    "collateralUSD": "30154.93",
+    "debtUSD": "10133.53",
+    "status": "safe"
+  },
+  "0xa5b54c3d031ea15a2f20eb9f71d63f1dce3cbb24": {
+    "healthFactor": "1.3332",
+    "collateralUSD": "5442.59",
+    "debtUSD": "3073.09",
+    "status": "safe"
+  },
+  "0x6a45ab36da4b131c0a20ddfde7b62512576166b9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "283.34",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa9340aaa91d1adb4c454e2ba8c2e667d3fed814a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2300.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5be460c655d4907f691ad437b5dcaeaa7f818b39": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "7508.83",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x61985f9cdcd37bc84eb376b2c8733cfbb7dd457f": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "836.26",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa988f520b9a2af4132392ce732f5eee2884cb7c9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "105851.21",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x90a25cadbfd97d700e9c00bd06465b8d382c57a6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "248940.55",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xed0398ed2032c05391eb0c67ebbc4843728d37cd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "0.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x102f3156b017fa93e766e60635ce1951c9dab066": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "22.21",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xc27d89f13bb1f4804a8a8ba3029f9dbc963b7979": {
+    "healthFactor": "1.3717",
+    "collateralUSD": "138882.34",
+    "debtUSD": "80998.33",
+    "status": "safe"
+  },
+  "0x2892b87c71ce558cf7679d4f6d4ee015a9925632": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "119.92",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6e8f52887f1c410d8fdac0995e447cb8b0447583": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "21409.48",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x2d899db420fe4912a39daf50779598f0844b6317": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10183.92",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xab393da1a4e27d8781a37fb1f4c38504bb5d9936": {
+    "healthFactor": "1.1979",
+    "collateralUSD": "49326.42",
+    "debtUSD": "32941.50",
+    "status": "safe"
+  },
+  "0x319ec02d341fa718a75aee58215a2a9e238d0936": {
+    "healthFactor": "1.3976",
+    "collateralUSD": "35607.45",
+    "debtUSD": "20378.93",
+    "status": "safe"
+  },
+  "0xd115edee06578716cb235fc8b51bd652b8237dc2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "417.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd7a2a47552b7c81919dc8000d304aba95988820a": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "7408.87",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xab82f0ce475124f3e7ed324c325850204a7c6f81": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "427.74",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x52ca35dc5d8d25cdbf391155c44974b46f98301f": {
+    "healthFactor": "2.6303",
+    "collateralUSD": "13705.42",
+    "debtUSD": "4168.44",
+    "status": "safe"
+  },
+  "0x7679a8b5e13db0f549672b1bd76751db5092ea58": {
+    "healthFactor": "3.1042",
+    "collateralUSD": "559059.82",
+    "debtUSD": "144080.40",
+    "status": "safe"
+  },
+  "0xd06b2d771c97dc78d58df56bbf56ad16da9e4383": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "34470.24",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe266d3113d20d477be9085d3db6025c18f922ef2": {
+    "healthFactor": "2.1261",
+    "collateralUSD": "2096.96",
+    "debtUSD": "744.56",
+    "status": "safe"
+  },
+  "0x3844b48214ca84834a544ddc4d891ddcb53d2fc0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "107.32",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3c9d65db77e57f57ff651d89d0259743c7f4a755": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10439.34",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1869ca179dc2f039ad1696c12b8c84f93cf71280": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "40253.57",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa1df0abba9e43d92ab1a364c1335865c48891d74": {
+    "healthFactor": "3.4983",
+    "collateralUSD": "475.47",
+    "debtUSD": "104.07",
+    "status": "safe"
+  },
+  "0x4e773b83e60e48fc56b2a4477cba990017a30309": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "7478.04",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x861023127cfca5eeb3c2b6f6494534ff26b1fb37": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3055.93",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xdb065e87d8926bec446c6c38b68568e0734ab091": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10056.19",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5dd8d304552d2d1818cbec83ea61b95f2e608dd6": {
+    "healthFactor": "1.8273",
+    "collateralUSD": "99168.10",
+    "debtUSD": "41208.31",
+    "status": "safe"
+  },
+  "0x56426140ef19618324e8ab14cd6b4c98fb795cbe": {
+    "healthFactor": "1.4537",
+    "collateralUSD": "196.04",
+    "debtUSD": "103.56",
+    "status": "safe"
+  },
+  "0x4476aefc603f725810c4a7b03fba9e7a1e9b7456": {
+    "healthFactor": "2.5637",
+    "collateralUSD": "1740.76",
+    "debtUSD": "532.74",
+    "status": "safe"
+  },
+  "0xeca63a932767b5f4900f02179d1aa53895c501b5": {
+    "healthFactor": "1.2437",
+    "collateralUSD": "379.37",
+    "debtUSD": "238.94",
+    "status": "safe"
+  },
+  "0x898b21eb92f540c311c742a83e0833844c7d95f4": {
+    "healthFactor": "7.8657",
+    "collateralUSD": "4003.72",
+    "debtUSD": "407.21",
+    "status": "safe"
+  },
+  "0xf25b42a59dc49ebb3ad92e9cd5fb9f90839e9eaf": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "10.34",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xaa312eb19552f924dfc47bfefe47f35a902fc595": {
+    "healthFactor": "2.5671",
+    "collateralUSD": "265.65",
+    "debtUSD": "81.20",
+    "status": "safe"
+  },
+  "0xe68a0e3bb263c528e797be2daa45d4e864bec9fc": {
+    "healthFactor": "691717.0568",
+    "collateralUSD": "1008.93",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x065c1b7818400b49a42c3cc4578c6a6c70614cdc": {
+    "healthFactor": "2254286.6936",
+    "collateralUSD": "1020.71",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8c43e90143b020aceb0e4c7ccdab674cfb57b804": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1006.34",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd4da14dabe00acfe3e22b0e93a76f97e7f0aac77": {
+    "healthFactor": "2.0934",
+    "collateralUSD": "149760.80",
+    "debtUSD": "55393.04",
+    "status": "safe"
+  },
+  "0xec97b1459e64d50aeca985a8680d565c8b649fb3": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "499.67",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x4f54276dea94cecef8ac49312bd6b7e6f94a0939": {
+    "healthFactor": "2.1541",
+    "collateralUSD": "501613.16",
+    "debtUSD": "186295.38",
+    "status": "safe"
+  },
+  "0x879e2b959b34bed8cff523d6ccf113710470da81": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "11430.75",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x726d984ef9935acf858ca19f036fdb85bcef53fd": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2003.69",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf3381a1fb71a7d357d4d9391c55579e0e4c70081": {
+    "healthFactor": "2.0823",
+    "collateralUSD": "5821.59",
+    "debtUSD": "2234.05",
+    "status": "safe"
+  },
+  "0xe17276c90830ea4dd834c8f3fd8764db3b0b9516": {
+    "healthFactor": "2.0345",
+    "collateralUSD": "344817.70",
+    "debtUSD": "127823.85",
+    "status": "safe"
+  },
+  "0x4b4eba8af791b1a9cb120d67873f71f5a69bffaa": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "33008.11",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8db106128951d94e4034c5d10d54dca851c6fa30": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "16383.42",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5afcfcb4158e484da49d1ccbf4a77ff3bdc5ffa6": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "30066.57",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x9811c968409627e3365603e4e5fbde7ae048e6ba": {
+    "healthFactor": "3.2365",
+    "collateralUSD": "3932.01",
+    "debtUSD": "957.09",
+    "status": "safe"
+  },
+  "0x0c097dc61cf16b4b1d148bf2b0720d7f3440dae2": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1001.33",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1912215368a73543913cae92897683ff9c2bcb29": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "8868.22",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0153f64c3f74b068b3f44269792c389efbe97e0d": {
+    "healthFactor": "2.4766",
+    "collateralUSD": "58795.00",
+    "debtUSD": "18991.93",
+    "status": "safe"
+  },
+  "0x4cd636919e0ee54a060f725b09d17b02665370a3": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "3069.05",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xe91337ddebee40563a0f1c51f5c74c05c80f6a34": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "32076.68",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xd1c8a54652b3dbc488360698d654ce4afcc3a0af": {
+    "healthFactor": "2.5460",
+    "collateralUSD": "1641.40",
+    "debtUSD": "483.52",
+    "status": "safe"
+  },
+  "0xc000799bf533854fe256098dbf93c549ccb1ed89": {
+    "healthFactor": "2.4793",
+    "collateralUSD": "1370.98",
+    "debtUSD": "414.73",
+    "status": "safe"
+  },
+  "0x134c450dd38f8182bdbfe369676f77e712c99975": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "697.12",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x52cbbdd8674f571153c1734299655cba1d7f07ea": {
+    "healthFactor": "1.1666",
+    "collateralUSD": "41.27",
+    "debtUSD": "26.53",
+    "status": "safe"
+  },
+  "0x15cafc531f51dfc3908a7b86de16352c750fd7a4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "12035.36",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x0529c7c8a635c08cd37f294678b2d54a8cad9337": {
+    "healthFactor": "1.1509",
+    "collateralUSD": "1843.41",
+    "debtUSD": "1201.29",
+    "status": "safe"
+  },
+  "0x1aefb27fa7c78cfe7ab99794a722981c80b7d46c": {
+    "healthFactor": "1.0298",
+    "collateralUSD": "5061.74",
+    "debtUSD": "3686.38",
+    "status": "safe"
+  },
+  "0xc93a3f243515c65bd0c6f77cc5fd7bc3299ed6f4": {
+    "healthFactor": "29.1924",
+    "collateralUSD": "230.19",
+    "debtUSD": "5.91",
+    "status": "safe"
+  },
+  "0x2ffd669e12d0497e8457641ac27b386bd2a3c4e4": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "8315.74",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x15b0fdeb25889b53bc1e331fe652badafa5b72d9": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "12.95",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xf229d7354f5580ebda19c95195b161ffc9cef616": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "131555.07",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x1b72bac3772050fdcaf468cce7e20deb3cb02d89": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "216293.04",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3c49dc33fee8805d9828aec38d31f1465a1451c4": {
+    "healthFactor": "549676.0103",
+    "collateralUSD": "106054.70",
+    "debtUSD": "0.14",
+    "status": "safe"
+  },
+  "0xfe9af4f79e48294dff0662ddc5e5df831170491f": {
+    "healthFactor": "1.6638",
+    "collateralUSD": "1196.81",
+    "debtUSD": "539.51",
+    "status": "safe"
+  },
+  "0x7ea0f10d0496b7170f67a728f8b8bd8b62367e03": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "20561.28",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x6b47618980e2ca3f2ad93ae799002952f941c0ee": {
+    "healthFactor": "1.4789",
+    "collateralUSD": "140.66",
+    "debtUSD": "75.01",
+    "status": "safe"
+  },
+  "0xcbe4dc720f42998d3ab934d7ada7260683b55c90": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2412.43",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x809badabee15ee72000fceaf2c513926715ebb91": {
+    "healthFactor": "5.4974",
+    "collateralUSD": "11369.25",
+    "debtUSD": "1586.65",
+    "status": "safe"
+  },
+  "0x59245cf0f90cafd819d457a84a8feaf03cf4aab1": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "950.97",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x5f53dd43bab7342326b46086525665b03943543c": {
+    "healthFactor": "1.0172",
+    "collateralUSD": "18.27",
+    "debtUSD": "11.32",
+    "status": "safe"
+  },
+  "0xa0463d9133f97968f30ef5e761ecbde587ddd918": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "692.42",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x8b371f753584c276845f59179d9687c3ec4026a0": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "2657.13",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x022c47a5c0a24de08155545136fafba4f80a2727": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "7375.70",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x3402c49262516d9e42990f80b4364e476e81a3f1": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "56.22",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0x03899041dd562e8612b6ab6870322217bd4bfef8": {
+    "healthFactor": "1.8900",
+    "collateralUSD": "139.58",
+    "debtUSD": "55.39",
+    "status": "safe"
+  },
+  "0xe79ef118a2d0d4bfc37ef7b56d8772301c85a1f7": {
+    "healthFactor": "2.5327",
+    "collateralUSD": "70.47",
+    "debtUSD": "20.87",
+    "status": "safe"
+  },
+  "0xc5bf4fc447f7af4528908933a9a467146cc3dacb": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "671.09",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xaeb019b2c1f311cdbfec3934c929406a3a71b396": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "1742.00",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xbc16f4eb00559bb28949ac89ff61574da87bae2d": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "416.26",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa077b54582e5d05de3873b080ca9ed4b59acf015": {
+    "healthFactor": "1.157920892373162e+59",
+    "collateralUSD": "417.52",
+    "debtUSD": "0.00",
+    "status": "safe"
+  },
+  "0xa3cd4d4a568b76cff01048e134096d2ba0171c27": {
+    "healthFactor": "2.0840",
+    "collateralUSD": "81559.52",
+    "debtUSD": "29352.59",
+    "status": "safe"
+  }
+}
