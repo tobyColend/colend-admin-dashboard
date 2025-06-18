@@ -1,0 +1,67 @@
+[
+    {
+        "symbol": "USDT",
+        "aToken": "0x98cD652fD1f5324A1AF6D64b3F6c8DCF2d8cd0D3",
+        "virtualRewardToken": "0xA58205Fd0AF86088c1506be5e53FDe84aaD5B9F9",
+        "coingeckoId": "tether",
+        "decimals": 6,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "USDC",
+        "aToken": "0x8f9d6649C4ac1d894BB8A26c3eed8f1C9C5f82Dd",
+        "coingeckoId": "tether",
+        "decimals": 6,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "WBTC",
+        "aToken": "0x2e3ea6cf100632A4A4B34F26681A6f50347775C9",
+        "coingeckoId": "bitcoin",
+        "decimals": 8,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "CORE",
+        "aToken": "0xf06C8db5f143fC9359d6af8BD07Adc845d2F3EF8",
+        "coingeckoId": "coredaoorg",
+        "decimals": 18,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "BTCB",
+        "aToken": "0x2bE8CA9b70ea8e8C878dd2c2793841aC617fFc4a",
+        "coingeckoId": "bitcoin",
+        "decimals": 18,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "stCORE",
+        "aToken": "0x9e99442AF8eaE003038Cbd0D36d60A0cA7a0fBDe",
+        "coingeckoId": "coredao-staked-core",
+        "decimals": 18,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "SOLVBTCB",
+        "aToken": "0x58e95162dBc71650BCac4AeAD39fe2d758Fc967C",
+        "coingeckoId": "bitcoin",
+        "decimals": 18,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "SOLVBTCM",
+        "aToken": "0xC995f5420E42842A5499d809dedad4F18EAa538D",
+        "coingeckoId": "bitcoin",
+        "decimals": 18,
+        "originBlock": 13301000
+    },
+    {
+        "symbol": "CLND",
+        "aToken": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
+        "coingeckoId": "colend",
+        "decimals": 18,
+        "originBlock": 13301000
+    }
+    
+]
