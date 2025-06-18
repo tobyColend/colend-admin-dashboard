@@ -1,8 +1,0 @@
-{
-  "0xeca63a932767b5f4900f02179d1aa53895c501b5": {
-    "healthFactor": "1.1197",
-    "collateralUSD": "293.24",
-    "debtUSD": "205.48",
-    "status": "safe"
-  }
-}
