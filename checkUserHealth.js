@@ -108,7 +108,7 @@ async function checkUserHealth(batchSize = 100, minUSD = 10) {
           status: hfNum < 1.0 ? "at-risk" : "safe"
         };
 
-        if (hfNum < 1.0 && debtUSD >= 10) {
+        if (hfNum < 1.0 && debtUSD >= 5) {
           await sendTelegramAlert(addr, healthFactor);
         }
       }

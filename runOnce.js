@@ -24,10 +24,15 @@ async function run() {
             const emission = emissionData[asset.symbol] || {};
             const virtual = virtualTVLMap[asset.symbol] || {};
             const holders = holderData[asset.symbol]?.aToken || {}; // only aToken used for health
+            const debt = holderData[asset.symbol]?.debtToken || {};
 
             let tvlSubsPct = null;
             if (asset.tvlUSD && virtual.tvlSubsUSD) {
                 tvlSubsPct = (virtual.tvlSubsUSD / asset.tvlUSD) * 100;
+            }
+            let tvlDebtPct = null;
+            if (asset.tvlUSD && debt.tvlDebtUSD) {
+                tvlDebtPct = (debt.tvlDebtUSD / asset.tvlUSD) * 100;
             }
 
             return {
@@ -35,7 +40,9 @@ async function run() {
                 ...emission,
                 ...virtual,
                 ...holders,
-                tvlSubsPct
+                ...debt,
+                tvlSubsPct,
+                tvlDebtPct
             };
         });
 

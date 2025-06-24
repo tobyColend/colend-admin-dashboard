@@ -3,6 +3,7 @@
         "symbol": "USDT",
         "aToken": "0x98cD652fD1f5324A1AF6D64b3F6c8DCF2d8cd0D3",
         "virtualRewardToken": "0xA58205Fd0AF86088c1506be5e53FDe84aaD5B9F9",
+        "debtToken": "0x1628434cAd032060a2d49aB2d6ab63FE63c66Dec",
         "coingeckoId": "tether",
         "decimals": 6,
         "originBlock": 13301000
@@ -10,6 +11,7 @@
     {
         "symbol": "USDC",
         "aToken": "0x8f9d6649C4ac1d894BB8A26c3eed8f1C9C5f82Dd",
+        "debtToken": "0x6e4DF18dff9a577f7B1583B71888F45CacBa5d42",
         "coingeckoId": "tether",
         "decimals": 6,
         "originBlock": 13301000
@@ -17,6 +19,7 @@
     {
         "symbol": "WBTC",
         "aToken": "0x2e3ea6cf100632A4A4B34F26681A6f50347775C9",
+        "debtToken": "0x614917a75A00f757aa5EDADB5a92675Af587085E",
         "coingeckoId": "bitcoin",
         "decimals": 8,
         "originBlock": 13301000
@@ -24,6 +27,7 @@
     {
         "symbol": "CORE",
         "aToken": "0xf06C8db5f143fC9359d6af8BD07Adc845d2F3EF8",
+        "debtToken": "0xAc98BB397b8ba98FffDd0124Cdc50fA08d7C7a00",
         "coingeckoId": "coredaoorg",
         "decimals": 18,
         "originBlock": 13301000
@@ -31,6 +35,7 @@
     {
         "symbol": "BTCB",
         "aToken": "0x2bE8CA9b70ea8e8C878dd2c2793841aC617fFc4a",
+        "debtToken": "0x9d92c320c09d52C377923a2eeCE6cBEef668Fd7B",
         "coingeckoId": "bitcoin",
         "decimals": 18,
         "originBlock": 13301000
@@ -38,6 +43,7 @@
     {
         "symbol": "stCORE",
         "aToken": "0x9e99442AF8eaE003038Cbd0D36d60A0cA7a0fBDe",
+        "debtToken": "0x287CDBae4087a57Dc74dA7E1C94072a99906f011",
         "coingeckoId": "coredao-staked-core",
         "decimals": 18,
         "originBlock": 13301000
@@ -45,6 +51,7 @@
     {
         "symbol": "SOLVBTCB",
         "aToken": "0x58e95162dBc71650BCac4AeAD39fe2d758Fc967C",
+        "debtToken": "0x4894cca8d8F5154315111AD6E9154Db32AE5a2d4",
         "coingeckoId": "bitcoin",
         "decimals": 18,
         "originBlock": 13301000
@@ -52,13 +59,14 @@
     {
         "symbol": "SOLVBTCM",
         "aToken": "0xC995f5420E42842A5499d809dedad4F18EAa538D",
+        "debtToken": "0x0cEB735ebb9feFd3a8A54887a6aF4543C182B9c6",
         "coingeckoId": "bitcoin",
         "decimals": 18,
         "originBlock": 13301000
     },
     {
         "symbol": "CLND",
-        "aToken": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
+        "aToken": "0xbFF5dE60A0dC1292610A300086C9f8Da3bE9E9b8",
         "coingeckoId": "colend",
         "decimals": 18,
         "originBlock": 13301000
