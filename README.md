@@ -45,21 +45,15 @@ GITHUB_TOKEN="ghp_..."
 GITHUB_REPO="github.com/tobyColend/colend-admin-dashboard"
 🚀 Usage
 One-shot snapshot
-bash
-Copy
-Edit
+
 # Aggregate TVL, emissions, virtual TVL, holder counts + health checks
 node runOnce.js
 Health-factor only
-bash
-Copy
-Edit
+
 # node checkUserHealth.js [batchSize] [minUSD]
 node checkUserHealth.js 200 10            # default: 100 / $10 :contentReference[oaicite:3]{index=3}
 Always-on Telegram bot
-bash
-Copy
-Edit
+
 node telegramBot.js
 Commands available in your chat:
 
