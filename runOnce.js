@@ -52,7 +52,7 @@ async function run() {
         logInfo(`📁 Combined data written to ${outputPath}`);
         logInfo(`📁 Snapshot saved to ${backupPath}`);
 
-        await checkUserHealth(150, 0);
+        await checkUserHealth(200, 0);
         pushAssetStats();
     } catch (err) {
         logError("❌ Failed to run aggregation", err);
