@@ -44,6 +44,7 @@
         "symbol": "stCORE",
         "aToken": "0x9e99442AF8eaE003038Cbd0D36d60A0cA7a0fBDe",
         "debtToken": "0x287CDBae4087a57Dc74dA7E1C94072a99906f011",
+        "virtualRewardToken": "0xA437465bAFDbeFa1C33CBB4E44950bF917074101",
         "coingeckoId": "coredao-staked-core",
         "decimals": 18,
         "originBlock": 13301000
